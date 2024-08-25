@@ -12,6 +12,5 @@
 - timm=0.3.2
 - tensorboard=2.11.2
 
-# Download Point Dataset
-
-- Point supervised PCOD: [google](https://drive.google.com/file/d/17oa6-IU2Dr9Q1KKQ74UoL0hoFd5F7bOd/view?usp=sharing)
+# Dataset
+I've been a little busy lately. The coding coming soon...
