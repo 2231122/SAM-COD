@@ -13,6 +13,7 @@
 - tensorboard=2.11.2
 
 # Encoder&Decoder
+Just download the above code directly and use it.
 
 # Using SAM 
 
