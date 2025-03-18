@@ -4,14 +4,14 @@
 
 
 # Prerequisites
-- python 3.7.5
-- Pytorch 1.13.1
-- Torchvision 0.14.1
-- Scikit_image=0.19.2
-- Skimage=0.0
-- timm=0.3.2
-- tensorboard=2.11.2
-
+- python==3.7.5
+- Pytorch==1.13.1
+- Torchvision==0.14.1
+- Scikit_image==0.19.2
+- Skimage==0.0
+- timm==0.3.2
+- tensorboard==2.11.2
+- einops==0.4.1
 # Encoder&Decoder
 Just download the above code directly and use it.
 
