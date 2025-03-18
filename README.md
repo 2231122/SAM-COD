@@ -23,10 +23,16 @@
 - pysodmetrics==1.4.0
 - PyYAML==6.0
 - tabulate==0.9.0
-  
-# Encoder&Decoder
-Just download the above code directly and use it.
 
+# Download P-COD and B-COD Dataset
+- Point supervised dataset P-COD: [google](https://drive.google.com/file/d/17oa6-IU2Dr9Q1KKQ74UoL0hoFd5F7bOd/view?usp=sharing)
+- Box supervised dataset B-COD: [google](https:baidu.com)
+
+# Encoder&Decoder
+Just download the above code directly and use it. 
+```shell
+train.
+```
 # Using SAM 
 I've been a little busy lately. The coding coming soon...
 
