@@ -26,7 +26,7 @@
 
 # Download P-COD and B-COD Dataset
 - Point supervised dataset P-COD: [google](https://drive.google.com/file/d/17oa6-IU2Dr9Q1KKQ74UoL0hoFd5F7bOd/view?usp=sharing)
-- Box supervised dataset B-COD: [google](https:baidu.com)
+- Box supervised dataset B-COD: [google](https://drive.google.com/file/d/1Ds1kBbk1Ifq6awWcIqbQrF79PVwGZW-G/view?usp=sharing)
 
 # Encoder&Decoder
 Just download the above code directly and use it. 
