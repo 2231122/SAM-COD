@@ -29,9 +29,15 @@
 - Box supervised dataset B-COD: [google](https://drive.google.com/file/d/1Ds1kBbk1Ifq6awWcIqbQrF79PVwGZW-G/view?usp=sharing)
 
 # Encoder&Decoder
-Just download the above code directly and use it. 
+Just download the dataset and pretrained model. 
+The pretrained model weight can be found here:[Pretrain_model](https://drive.google.com/file/d/1169AvHlRnyKdScEHm6yWKSyne3j0N2EZ/view?usp=sharing) .(put it in './SAM-guided-Unified-Framework-for-Weakly-Supervised-Camouflaged-Object-Detection/Pretrain_model.pth')
+The masks for distillation are in the path './CodDataset/train/masks' 
 ```shell
-train.
+python train.py
+```
+Test and Evaluate
+```shell
+python test.py
 ```
 # Using SAM 
 I've been a little busy lately. The coding coming soon...
