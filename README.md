@@ -28,6 +28,21 @@
 - Point supervised dataset P-COD: [google](https://drive.google.com/file/d/17oa6-IU2Dr9Q1KKQ74UoL0hoFd5F7bOd/view?usp=sharing)
 - Box supervised dataset B-COD: [google](https://drive.google.com/file/d/1Ds1kBbk1Ifq6awWcIqbQrF79PVwGZW-G/view?usp=sharing)
 
+# Using Segment Anything Model
+- Following the [SAM](https://github.com/facebookresearch/segment-anything) to create an environment.
+
+- Box-prompt:
+```shell
+train.py  
+```
+- Point-prompt:
+```shell
+train.py
+```
+- Scribble-prompt:
+```shell
+train.py
+``` 
 # Encoder&Decoder
 - Just download the dataset and pretrained model. 
 - The pretrained model weight can be found here: [Pretrain_model](https://drive.google.com/file/d/1169AvHlRnyKdScEHm6yWKSyne3j0N2EZ/view?usp=sharing) . (put it in './SAM-guided-Unified-Framework-for-Weakly-Supervised-Camouflaged-Object-Detection/Pretrain_model.pth')
