@@ -30,10 +30,13 @@
 
 # Using Segment Anything Model
 - Following the [SAM](https://github.com/facebookresearch/segment-anything) to create an environment.
+- Put [SAM's pretrained-model-weight](https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth) in './segment-anything-main/sam_vit_h_4b8939.pth'
+- Put image in './segment-anything-main/Images'
 
 - Box-prompt:
+Put B-COD in './segment-anything-main/B-COD'
 ```shell
-train.py  
+python predictor_example_box.py  
 ```
 - Point-prompt:
 ```shell
