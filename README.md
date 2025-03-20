@@ -36,10 +36,13 @@ Put [SAM's pretrained-model-weight](https://dl.fbaipublicfiles.com/segment_anyth
 Put image in './segment-anything-main/Images'
 
 - Box-prompt:
+  
 Put B-COD in './segment-anything-main/B-COD'
+
 ```shell
 python predictor_example_box.py  
 ```
+
 - Point-prompt:
 ```shell
 train.py
