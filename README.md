@@ -69,9 +69,7 @@ python prompt-adapter.py
 
 - Train P_Mask
 
-Training the encoder and decoder supervised by [Point_cu](https://drive.google.com/file/d/1L6l5ijona7J5eX5tX8aGSjwCY1oBdV7L/view?usp=drive_link) or [scribble](https://drive.google.com/file/d/1u7PRtZDu2vXCRe0o2SplVYa7ESoZQFR-/view?usp=sharing) or Max(SAM(Box_prompt)) (In using segment anything part).
-  
-- ?????
+Train the encoder and decoder supervised by [Point_cu](https://drive.google.com/file/d/1L6l5ijona7J5eX5tX8aGSjwCY1oBdV7L/view?usp=drive_link), [scribble](https://drive.google.com/file/d/1u7PRtZDu2vXCRe0o2SplVYa7ESoZQFR-/view?usp=sharing), or Max(SAM(Box_prompt)), where Max(SAM(Box_prompt)) is part of the Segment Anything model.
 
 Put P_mask and segment anything's mask in './xxx'
 ```shell
