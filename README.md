@@ -65,8 +65,20 @@ python predictor_muti_point.py
 python prompt-adapter.py
 ```
 
+# Filter and Matcher
 
-# Encoder&Decoder
+- Train P_Mask
+
+Training the encoder and decoder supervised by [Point_cu]() or [scribble](https://drive.google.com/file/d/1u7PRtZDu2vXCRe0o2SplVYa7ESoZQFR-/view?usp=sharing) or [Max(SAM(Box_prompt))] (Above).
+  
+- ?????
+
+Put P_mask and segment anything's mask in './xxx'
+```shell
+python Filter_and_Matcher.py
+```
+
+# Distillation encoder and decoder
 - Just download the dataset and pretrained model. 
 - The pretrained model weight can be found here: [Pretrain_model](https://drive.google.com/file/d/1169AvHlRnyKdScEHm6yWKSyne3j0N2EZ/view?usp=sharing) . (put it in './SAM-guided-Unified-Framework-for-Weakly-Supervised-Camouflaged-Object-Detection/Pretrain_model.pth')
 - The masks for distillation are in the path './CodDataset/train/masks'
@@ -79,10 +91,8 @@ python train.py
 ```shell
 python test.py
 ```
-# Using SAM 
-I've been a little busy lately. The coding coming soon...
 
-# Adapter&Filter&Matcher
 
-# Dataset
+
+
 
