@@ -90,6 +90,10 @@ python train.py
 python test.py
 ```
 
+# Experimental Results
+
+# Acknowledgement
+[Weakly-Supervised Camouflaged Object Detection with Scribble Annotations](https://github.com/dddraxxx/Weakly-Supervised-Camouflaged-Object-Detection-with-Scribble-Annotations)
 
 
 
