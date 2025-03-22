@@ -1,0 +1,30 @@
+{
+    "WSA1": {
+        "WSA1": {
+            "path": "./../map/trained/CAMO",
+            "prefix": "camourflage_",
+            "suffix": ".png"
+        }
+    },
+    "WSA2": {
+        "WSA2": {
+            "path": "./../map/trained/CHAMELEON",
+            "prefix": "animal-",
+            "suffix": ".png"
+        }
+    },
+    "WSA3": {
+        "WSA3": {
+            "path": "./../map/trained/COD10K",
+            "prefix": "COD10K-",
+            "suffix": ".png"
+        }
+    },
+    "WSA4": {
+        "WSA4": {
+            "path": "./../map/trained/HCK4",
+            "prefix": "",
+            "suffix": ".png"
+        }
+    }
+}

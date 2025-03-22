@@ -1,0 +1,94 @@
+{
+  "LFSD": {
+    "image": {
+      "path": "Path_Of_RGBDSOD_Datasets/LFSD/Image",
+      "prefix": "some_gt_prefix",
+      "suffix": ".jpg"
+    },
+    "mask": {
+      "path": "Path_Of_RGBDSOD_Datasets/LFSD/Mask",
+      "prefix": "some_gt_prefix",
+      "suffix": ".png"
+    }
+  },
+  "NJUD": {
+    "image": {
+      "path": "Path_Of_RGBDSOD_Datasets/NJUD_FULL/Image",
+      "suffix": ".jpg"
+    },
+    "mask": {
+      "path": "Path_Of_RGBDSOD_Datasets/NJUD_FULL/Mask",
+      "suffix": ".png"
+    }
+  },
+  "NLPR": {
+    "image": {
+      "path": "Path_Of_RGBDSOD_Datasets/NLPR_FULL/Image",
+      "suffix": ".jpg"
+    },
+    "mask": {
+      "path": "Path_Of_RGBDSOD_Datasets/NLPR_FULL/Mask",
+      "suffix": ".png"
+    }
+  },
+  "RGBD135": {
+    "image": {
+      "path": "Path_Of_RGBDSOD_Datasets/RGBD135/Image",
+      "suffix": ".jpg"
+    },
+    "mask": {
+      "path": "Path_Of_RGBDSOD_Datasets/RGBD135/Mask",
+      "suffix": ".png"
+    }
+  },
+  "SIP": {
+    "image": {
+      "path": "Path_Of_RGBDSOD_Datasets/SIP/Image",
+      "suffix": ".jpg"
+    },
+    "mask": {
+      "path": "Path_Of_RGBDSOD_Datasets/SIP/Mask",
+      "suffix": ".png"
+    }
+  },
+  "SSD": {
+    "image": {
+      "path": "Path_Of_RGBDSOD_Datasets/SSD/Image",
+      "suffix": ".jpg"
+    },
+    "mask": {
+      "path": "Path_Of_RGBDSOD_Datasets/SSD/Mask",
+      "suffix": ".png"
+    }
+  },
+  "STEREO797": {
+    "image": {
+      "path": "Path_Of_RGBDSOD_Datasets/STEREO797/Image",
+      "suffix": ".jpg"
+    },
+    "mask": {
+      "path": "Path_Of_RGBDSOD_Datasets/STEREO797/Mask",
+      "suffix": ".png"
+    }
+  },
+  "STEREO1000": {
+    "image": {
+      "path": "Path_Of_RGBDSOD_Datasets/STEREO1000/Image",
+      "suffix": ".jpg"
+    },
+    "mask": {
+      "path": "Path_Of_RGBDSOD_Datasets/STEREO1000/Mask",
+      "suffix": ".png"
+    }
+  },
+  "DUTRGBD": {
+    "image": {
+      "path": "Path_Of_RGBDSOD_Datasets/DUT-RGBD/Test/Image",
+      "suffix": ".jpg"
+    },
+    "mask": {
+      "path": "Path_Of_RGBDSOD_Datasets/DUT-RGBD/Test/Mask",
+      "suffix": ".png"
+    }
+  }
+}

@@ -1,0 +1,1008 @@
+
+ ========>> Date: 2023-04-07 22:27:12.436945 <<======== 
+
+ ========>> Date: 2023-04-07 22:30:11.337981 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.482  maxfmeasure: 0.22   avgfmeasure: 0.174  adpfmeasure: 0.064  maxprecision: 0.298  avgprecision: 0.208  maxrecall: 1.0    avgrecall: 0.48   maxem: 0.526  avgem: 0.349  adpem: 0.394  sm: 0.35   wfm: 0.175  
+
+ ========>> Date: 2023-04-08 10:01:36.331409 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.482  maxfmeasure: 0.22   avgfmeasure: 0.174  adpfmeasure: 0.064  maxprecision: 0.298  avgprecision: 0.208  maxrecall: 1.0    avgrecall: 0.48   maxem: 0.526  avgem: 0.349  adpem: 0.394  sm: 0.35   wfm: 0.175  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.46   maxfmeasure: 0.175  avgfmeasure: 0.137  adpfmeasure: 0.052  maxprecision: 0.259  avgprecision: 0.17   maxrecall: 1.0    avgrecall: 0.464  maxem: 0.602  avgem: 0.35   adpem: 0.4    sm: 0.37   wfm: 0.14   
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.423  maxfmeasure: 0.131  avgfmeasure: 0.105  adpfmeasure: 0.084  maxprecision: 0.285  avgprecision: 0.149  maxrecall: 1.0    avgrecall: 0.437  maxem: 0.545  avgem: 0.357  adpem: 0.486  sm: 0.385  wfm: 0.098  
+
+ ========>> Date: 2023-04-09 16:16:38.374094 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.482  maxfmeasure: 0.22   avgfmeasure: 0.174  adpfmeasure: 0.064  maxprecision: 0.298  avgprecision: 0.208  maxrecall: 1.0    avgrecall: 0.48   maxem: 0.526  avgem: 0.349  adpem: 0.394  sm: 0.35   wfm: 0.175  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.46   maxfmeasure: 0.175  avgfmeasure: 0.137  adpfmeasure: 0.052  maxprecision: 0.259  avgprecision: 0.17   maxrecall: 1.0    avgrecall: 0.464  maxem: 0.602  avgem: 0.35   adpem: 0.4    sm: 0.37   wfm: 0.14   
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.423  maxfmeasure: 0.131  avgfmeasure: 0.105  adpfmeasure: 0.084  maxprecision: 0.285  avgprecision: 0.149  maxrecall: 1.0    avgrecall: 0.437  maxem: 0.545  avgem: 0.357  adpem: 0.486  sm: 0.385  wfm: 0.098  
+
+ ========>> Date: 2023-04-10 10:21:10.114219 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.482  maxfmeasure: 0.22   avgfmeasure: 0.174  adpfmeasure: 0.064  maxprecision: 0.298  avgprecision: 0.208  maxrecall: 1.0    avgrecall: 0.48   maxem: 0.526  avgem: 0.349  adpem: 0.394  sm: 0.35   wfm: 0.175  
+
+ ========>> Date: 2023-04-10 10:27:54.560976 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.482  maxfmeasure: 0.22   avgfmeasure: 0.174  adpfmeasure: 0.064  maxprecision: 0.298  avgprecision: 0.208  maxrecall: 1.0    avgrecall: 0.48   maxem: 0.526  avgem: 0.349  adpem: 0.394  sm: 0.35   wfm: 0.175  
+
+ ========>> Date: 2023-04-10 10:41:06.193694 <<======== 
+
+ ========>> Date: 2023-04-10 10:44:19.027695 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.095  maxfmeasure: 0.713  avgfmeasure: 0.702  adpfmeasure: 0.715  maxprecision: 0.824  avgprecision: 0.793  maxrecall: 1.0    avgrecall: 0.633  maxem: 0.839  avgem: 0.815  adpem: 0.833  sm: 0.729  wfm: 0.635  
+
+ ========>> Date: 2023-04-10 10:54:30.022417 <<======== 
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.046  maxfmeasure: 0.782  avgfmeasure: 0.779  adpfmeasure: 0.782  maxprecision: 0.842  avgprecision: 0.82   maxrecall: 1.0    avgrecall: 0.732  maxem: 0.905  avgem: 0.893  adpem: 0.897  sm: 0.807  wfm: 0.729  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.048  maxfmeasure: 0.643  avgfmeasure: 0.639  adpfmeasure: 0.644  maxprecision: 0.725  avgprecision: 0.699  maxrecall: 1.0    avgrecall: 0.598  maxem: 0.843  avgem: 0.829  adpem: 0.845  sm: 0.73   wfm: 0.577  
+
+ ========>> Date: 2023-04-10 11:14:40.674877 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.099  maxfmeasure: 0.699  avgfmeasure: 0.684  adpfmeasure: 0.697  maxprecision: 0.821  avgprecision: 0.804  maxrecall: 1.0    avgrecall: 0.593  maxem: 0.807  avgem: 0.783  adpem: 0.803  sm: 0.713  wfm: 0.613  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.046  maxfmeasure: 0.784  avgfmeasure: 0.781  adpfmeasure: 0.785  maxprecision: 0.852  avgprecision: 0.832  maxrecall: 1.0    avgrecall: 0.717  maxem: 0.903  avgem: 0.892  adpem: 0.899  sm: 0.805  wfm: 0.727  
+
+ ========>> Date: 2023-04-10 19:50:06.113554 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.093  maxfmeasure: 0.707  avgfmeasure: 0.694  adpfmeasure: 0.707  maxprecision: 0.797  avgprecision: 0.783  maxrecall: 1.0    avgrecall: 0.627  maxem: 0.826  avgem: 0.802  adpem: 0.823  sm: 0.724  wfm: 0.63   
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.045  maxfmeasure: 0.792  avgfmeasure: 0.789  adpfmeasure: 0.793  maxprecision: 0.855  avgprecision: 0.836  maxrecall: 1.0    avgrecall: 0.725  maxem: 0.904  avgem: 0.886  adpem: 0.9    sm: 0.81   wfm: 0.737  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.048  maxfmeasure: 0.639  avgfmeasure: 0.635  adpfmeasure: 0.641  maxprecision: 0.723  avgprecision: 0.7    maxrecall: 1.0    avgrecall: 0.593  maxem: 0.836  avgem: 0.819  adpem: 0.838  sm: 0.729  wfm: 0.573  
+
+ ========>> Date: 2023-04-11 15:15:14.047599 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.093  maxfmeasure: 0.707  avgfmeasure: 0.694  adpfmeasure: 0.707  maxprecision: 0.797  avgprecision: 0.783  maxrecall: 1.0    avgrecall: 0.627  maxem: 0.826  avgem: 0.802  adpem: 0.823  sm: 0.724  wfm: 0.63   
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.045  maxfmeasure: 0.792  avgfmeasure: 0.789  adpfmeasure: 0.793  maxprecision: 0.855  avgprecision: 0.836  maxrecall: 1.0    avgrecall: 0.725  maxem: 0.904  avgem: 0.886  adpem: 0.9    sm: 0.81   wfm: 0.737  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.048  maxfmeasure: 0.639  avgfmeasure: 0.635  adpfmeasure: 0.641  maxprecision: 0.723  avgprecision: 0.7    maxrecall: 1.0    avgrecall: 0.593  maxem: 0.836  avgem: 0.819  adpem: 0.838  sm: 0.729  wfm: 0.573  
+
+ ========>> Date: 2023-04-14 09:32:55.389277 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.079  maxfmeasure: 0.754  avgfmeasure: 0.748  adpfmeasure: 0.755  maxprecision: 0.828  avgprecision: 0.804  maxrecall: 1.0    avgrecall: 0.709  maxem: 0.872  avgem: 0.859  adpem: 0.869  sm: 0.77   wfm: 0.694  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.041  maxfmeasure: 0.793  avgfmeasure: 0.79   adpfmeasure: 0.793  maxprecision: 0.84   avgprecision: 0.819  maxrecall: 1.0    avgrecall: 0.755  maxem: 0.915  avgem: 0.91   adpem: 0.914  sm: 0.819  wfm: 0.747  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.041  maxfmeasure: 0.685  avgfmeasure: 0.682  adpfmeasure: 0.685  maxprecision: 0.752  avgprecision: 0.725  maxrecall: 1.0    avgrecall: 0.666  maxem: 0.869  avgem: 0.859  adpem: 0.87   sm: 0.762  wfm: 0.63   
+
+ ========>> Date: 2023-04-14 18:41:31.224875 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.067  maxfmeasure: 0.791  avgfmeasure: 0.786  adpfmeasure: 0.787  maxprecision: 0.839  avgprecision: 0.812  maxrecall: 1.0    avgrecall: 0.776  maxem: 0.894  avgem: 0.889  adpem: 0.894  sm: 0.8    wfm: 0.741  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.041  maxfmeasure: 0.793  avgfmeasure: 0.783  adpfmeasure: 0.784  maxprecision: 0.823  avgprecision: 0.796  maxrecall: 1.0    avgrecall: 0.784  maxem: 0.923  avgem: 0.91   adpem: 0.915  sm: 0.826  wfm: 0.749  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.038  maxfmeasure: 0.703  avgfmeasure: 0.698  adpfmeasure: 0.699  maxprecision: 0.763  avgprecision: 0.729  maxrecall: 1.0    avgrecall: 0.7    maxem: 0.885  avgem: 0.875  adpem: 0.884  sm: 0.777  wfm: 0.652  
+
+ ========>> Date: 2023-04-14 22:36:24.973712 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.067  maxfmeasure: 0.794  avgfmeasure: 0.789  adpfmeasure: 0.79   maxprecision: 0.845  avgprecision: 0.815  maxrecall: 1.0    avgrecall: 0.777  maxem: 0.897  avgem: 0.89   adpem: 0.896  sm: 0.801  wfm: 0.744  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.043  maxfmeasure: 0.785  avgfmeasure: 0.78   adpfmeasure: 0.782  maxprecision: 0.827  avgprecision: 0.802  maxrecall: 1.0    avgrecall: 0.769  maxem: 0.915  avgem: 0.902  adpem: 0.908  sm: 0.818  wfm: 0.741  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.039  maxfmeasure: 0.703  avgfmeasure: 0.699  adpfmeasure: 0.7    maxprecision: 0.765  avgprecision: 0.731  maxrecall: 1.0    avgrecall: 0.696  maxem: 0.882  avgem: 0.873  adpem: 0.881  sm: 0.776  wfm: 0.652  
+
+ ========>> Date: 2023-04-15 09:30:59.137795 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.072  maxfmeasure: 0.777  avgfmeasure: 0.768  adpfmeasure: 0.768  maxprecision: 0.908  avgprecision: 0.795  maxrecall: 1.0    avgrecall: 0.784  maxem: 0.883  avgem: 0.875  adpem: 0.882  sm: 0.799  wfm: 0.724  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.042  maxfmeasure: 0.784  avgfmeasure: 0.776  adpfmeasure: 0.777  maxprecision: 0.892  avgprecision: 0.8    maxrecall: 1.0    avgrecall: 0.758  maxem: 0.916  avgem: 0.9    adpem: 0.909  sm: 0.821  wfm: 0.735  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.038  maxfmeasure: 0.696  avgfmeasure: 0.689  adpfmeasure: 0.687  maxprecision: 0.828  avgprecision: 0.724  maxrecall: 1.0    avgrecall: 0.685  maxem: 0.881  avgem: 0.866  adpem: 0.878  sm: 0.774  wfm: 0.641  
+
+ ========>> Date: 2023-04-15 15:45:10.176164 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.094  maxfmeasure: 0.709  avgfmeasure: 0.7    adpfmeasure: 0.709  maxprecision: 0.8    avgprecision: 0.787  maxrecall: 1.0    avgrecall: 0.624  maxem: 0.83   avgem: 0.811  adpem: 0.829  sm: 0.729  wfm: 0.634  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.047  maxfmeasure: 0.789  avgfmeasure: 0.786  adpfmeasure: 0.789  maxprecision: 0.849  avgprecision: 0.829  maxrecall: 1.0    avgrecall: 0.73   maxem: 0.9    avgem: 0.89   adpem: 0.896  sm: 0.809  wfm: 0.734  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.05   maxfmeasure: 0.634  avgfmeasure: 0.629  adpfmeasure: 0.635  maxprecision: 0.722  avgprecision: 0.7    maxrecall: 1.0    avgrecall: 0.578  maxem: 0.833  avgem: 0.817  adpem: 0.833  sm: 0.721  wfm: 0.565  
+
+ ========>> Date: 2023-04-15 19:04:37.726778 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.078  maxfmeasure: 0.758  avgfmeasure: 0.753  adpfmeasure: 0.755  maxprecision: 0.808  avgprecision: 0.778  maxrecall: 1.0    avgrecall: 0.767  maxem: 0.874  avgem: 0.869  adpem: 0.875  sm: 0.776  wfm: 0.706  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.045  maxfmeasure: 0.77   avgfmeasure: 0.762  adpfmeasure: 0.764  maxprecision: 0.81   avgprecision: 0.78   maxrecall: 1.0    avgrecall: 0.771  maxem: 0.901  avgem: 0.898  adpem: 0.904  sm: 0.813  wfm: 0.726  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.045  maxfmeasure: 0.662  avgfmeasure: 0.656  adpfmeasure: 0.656  maxprecision: 0.722  avgprecision: 0.685  maxrecall: 1.0    avgrecall: 0.678  maxem: 0.864  avgem: 0.856  adpem: 0.863  sm: 0.753  wfm: 0.608  
+
+ ========>> Date: 2023-04-15 20:58:01.660838 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.184  maxfmeasure: 0.218  avgfmeasure: 0.004  adpfmeasure: 0.171  maxprecision: 0.203  avgprecision: 0.014  maxrecall: 1.0    avgrecall: 0.006  maxem: 0.619  avgem: 0.266  adpem: 0.639  sm: 0.406  wfm: 0.006  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.143  maxfmeasure: 0.171  avgfmeasure: 0.002  adpfmeasure: 0.102  maxprecision: 0.14   avgprecision: 0.003  maxrecall: 1.0    avgrecall: 0.005  maxem: 0.654  avgem: 0.27   adpem: 0.646  sm: 0.427  wfm: 0.003  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.094  maxfmeasure: 0.111  avgfmeasure: 0.001  adpfmeasure: 0.063  maxprecision: 0.091  avgprecision: 0.007  maxrecall: 1.0    avgrecall: 0.005  maxem: 0.65   avgem: 0.285  adpem: 0.576  sm: 0.451  wfm: 0.003  
+
+ ========>> Date: 2023-04-15 21:35:49.217214 <<======== 
+
+ ========>> Date: 2023-04-15 21:45:26.008198 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.081  maxfmeasure: 0.758  avgfmeasure: 0.749  adpfmeasure: 0.754  maxprecision: 0.832  avgprecision: 0.774  maxrecall: 1.0    avgrecall: 0.766  maxem: 0.874  avgem: 0.865  adpem: 0.876  sm: 0.78   wfm: 0.686  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.048  maxfmeasure: 0.77   avgfmeasure: 0.757  adpfmeasure: 0.76   maxprecision: 0.834  avgprecision: 0.775  maxrecall: 1.0    avgrecall: 0.77   maxem: 0.901  avgem: 0.894  adpem: 0.911  sm: 0.817  wfm: 0.703  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.049  maxfmeasure: 0.662  avgfmeasure: 0.651  adpfmeasure: 0.645  maxprecision: 0.753  avgprecision: 0.68   maxrecall: 1.0    avgrecall: 0.678  maxem: 0.865  avgem: 0.851  adpem: 0.86   sm: 0.754  wfm: 0.569  
+
+ ========>> Date: 2023-04-15 22:03:22.325280 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.078  maxfmeasure: 0.758  avgfmeasure: 0.753  adpfmeasure: 0.755  maxprecision: 0.808  avgprecision: 0.778  maxrecall: 1.0    avgrecall: 0.767  maxem: 0.874  avgem: 0.869  adpem: 0.875  sm: 0.776  wfm: 0.706  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.045  maxfmeasure: 0.77   avgfmeasure: 0.762  adpfmeasure: 0.764  maxprecision: 0.81   avgprecision: 0.78   maxrecall: 1.0    avgrecall: 0.771  maxem: 0.901  avgem: 0.898  adpem: 0.904  sm: 0.813  wfm: 0.726  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.045  maxfmeasure: 0.662  avgfmeasure: 0.656  adpfmeasure: 0.656  maxprecision: 0.722  avgprecision: 0.685  maxrecall: 1.0    avgrecall: 0.678  maxem: 0.864  avgem: 0.856  adpem: 0.863  sm: 0.753  wfm: 0.608  
+
+ ========>> Date: 2023-04-16 10:00:12.661578 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.078  maxfmeasure: 0.758  avgfmeasure: 0.752  adpfmeasure: 0.742  maxprecision: 0.806  avgprecision: 0.778  maxrecall: 1.0    avgrecall: 0.765  maxem: 0.874  avgem: 0.868  adpem: 0.865  sm: 0.776  wfm: 0.705  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.045  maxfmeasure: 0.769  avgfmeasure: 0.761  adpfmeasure: 0.764  maxprecision: 0.808  avgprecision: 0.78   maxrecall: 1.0    avgrecall: 0.769  maxem: 0.901  avgem: 0.897  adpem: 0.904  sm: 0.813  wfm: 0.725  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.045  maxfmeasure: 0.662  avgfmeasure: 0.656  adpfmeasure: 0.655  maxprecision: 0.731  avgprecision: 0.685  maxrecall: 1.0    avgrecall: 0.677  maxem: 0.864  avgem: 0.855  adpem: 0.863  sm: 0.753  wfm: 0.607  
+
+ ========>> Date: 2023-04-16 10:13:30.440936 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.078  maxfmeasure: 0.758  avgfmeasure: 0.753  adpfmeasure: 0.755  maxprecision: 0.809  avgprecision: 0.778  maxrecall: 1.0    avgrecall: 0.767  maxem: 0.874  avgem: 0.869  adpem: 0.875  sm: 0.776  wfm: 0.706  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.045  maxfmeasure: 0.77   avgfmeasure: 0.762  adpfmeasure: 0.764  maxprecision: 0.811  avgprecision: 0.78   maxrecall: 1.0    avgrecall: 0.771  maxem: 0.901  avgem: 0.898  adpem: 0.904  sm: 0.813  wfm: 0.726  
+
+ ========>> Date: 2023-04-18 10:33:06.971899 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.076  maxfmeasure: 0.758  avgfmeasure: 0.754  adpfmeasure: 0.759  maxprecision: 0.836  avgprecision: 0.804  maxrecall: 1.0    avgrecall: 0.725  maxem: 0.873  avgem: 0.865  adpem: 0.872  sm: 0.776  wfm: 0.698  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.04   maxfmeasure: 0.804  avgfmeasure: 0.798  adpfmeasure: 0.8    maxprecision: 0.85   avgprecision: 0.818  maxrecall: 1.0    avgrecall: 0.778  maxem: 0.921  avgem: 0.916  adpem: 0.921  sm: 0.83   wfm: 0.753  
+
+ ========>> Date: 2023-04-18 15:35:43.687009 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.075  maxfmeasure: 0.758  avgfmeasure: 0.755  adpfmeasure: 0.759  maxprecision: 0.827  avgprecision: 0.806  maxrecall: 1.0    avgrecall: 0.725  maxem: 0.873  avgem: 0.866  adpem: 0.871  sm: 0.775  wfm: 0.703  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.039  maxfmeasure: 0.804  avgfmeasure: 0.799  adpfmeasure: 0.801  maxprecision: 0.842  avgprecision: 0.82   maxrecall: 1.0    avgrecall: 0.779  maxem: 0.921  avgem: 0.918  adpem: 0.921  sm: 0.828  wfm: 0.76   
+
+ ========>> Date: 2023-04-18 21:37:47.921754 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.079  maxfmeasure: 0.749  avgfmeasure: 0.745  adpfmeasure: 0.747  maxprecision: 0.807  avgprecision: 0.779  maxrecall: 1.0    avgrecall: 0.741  maxem: 0.872  avgem: 0.868  adpem: 0.872  sm: 0.771  wfm: 0.695  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.046  maxfmeasure: 0.78   avgfmeasure: 0.772  adpfmeasure: 0.772  maxprecision: 0.817  avgprecision: 0.788  maxrecall: 1.0    avgrecall: 0.762  maxem: 0.905  avgem: 0.9    adpem: 0.907  sm: 0.815  wfm: 0.733  
+
+ ========>> Date: 2023-04-19 09:11:18.023182 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.076  maxfmeasure: 0.761  avgfmeasure: 0.754  adpfmeasure: 0.756  maxprecision: 0.807  avgprecision: 0.777  maxrecall: 1.0    avgrecall: 0.763  maxem: 0.882  avgem: 0.878  adpem: 0.882  sm: 0.78   wfm: 0.707  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.045  maxfmeasure: 0.775  avgfmeasure: 0.769  adpfmeasure: 0.77   maxprecision: 0.815  avgprecision: 0.786  maxrecall: 1.0    avgrecall: 0.757  maxem: 0.911  avgem: 0.908  adpem: 0.91   sm: 0.812  wfm: 0.729  
+
+ ========>> Date: 2023-04-19 16:13:54.152013 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.079  maxfmeasure: 0.75   avgfmeasure: 0.746  adpfmeasure: 0.748  maxprecision: 0.804  avgprecision: 0.776  maxrecall: 1.0    avgrecall: 0.745  maxem: 0.874  avgem: 0.87   adpem: 0.875  sm: 0.771  wfm: 0.697  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.047  maxfmeasure: 0.776  avgfmeasure: 0.766  adpfmeasure: 0.767  maxprecision: 0.809  avgprecision: 0.779  maxrecall: 1.0    avgrecall: 0.765  maxem: 0.909  avgem: 0.906  adpem: 0.91   sm: 0.812  wfm: 0.728  
+
+ ========>> Date: 2023-04-20 16:37:01.963363 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.129  maxfmeasure: 0.639  avgfmeasure: 0.606  adpfmeasure: 0.627  maxprecision: 0.856  avgprecision: 0.794  maxrecall: 1.0    avgrecall: 0.433  maxem: 0.781  avgem: 0.701  adpem: 0.738  sm: 0.635  wfm: 0.496  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.097  maxfmeasure: 0.626  avgfmeasure: 0.598  adpfmeasure: 0.618  maxprecision: 0.855  avgprecision: 0.777  maxrecall: 1.0    avgrecall: 0.46   maxem: 0.776  avgem: 0.724  adpem: 0.751  sm: 0.657  wfm: 0.494  
+
+ ========>> Date: 2023-04-20 19:23:19.214057 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.124  maxfmeasure: 0.644  avgfmeasure: 0.626  adpfmeasure: 0.635  maxprecision: 0.821  avgprecision: 0.797  maxrecall: 1.0    avgrecall: 0.467  maxem: 0.755  avgem: 0.718  adpem: 0.734  sm: 0.647  wfm: 0.522  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.087  maxfmeasure: 0.669  avgfmeasure: 0.658  adpfmeasure: 0.665  maxprecision: 0.826  avgprecision: 0.8    maxrecall: 1.0    avgrecall: 0.526  maxem: 0.788  avgem: 0.762  adpem: 0.773  sm: 0.693  wfm: 0.564  
+
+ ========>> Date: 2023-04-20 20:09:10.288214 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.143  maxfmeasure: 0.644  avgfmeasure: 0.601  adpfmeasure: 0.641  maxprecision: 0.869  avgprecision: 0.77   maxrecall: 1.0    avgrecall: 0.472  maxem: 0.77   avgem: 0.696  adpem: 0.754  sm: 0.658  wfm: 0.439  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.106  maxfmeasure: 0.668  avgfmeasure: 0.634  adpfmeasure: 0.667  maxprecision: 0.885  avgprecision: 0.773  maxrecall: 1.0    avgrecall: 0.529  maxem: 0.8    avgem: 0.739  adpem: 0.787  sm: 0.705  wfm: 0.468  
+
+ ========>> Date: 2023-04-20 20:15:15.384057 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.124  maxfmeasure: 0.644  avgfmeasure: 0.625  adpfmeasure: 0.638  maxprecision: 0.832  avgprecision: 0.796  maxrecall: 1.0    avgrecall: 0.467  maxem: 0.773  avgem: 0.718  adpem: 0.738  sm: 0.648  wfm: 0.521  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.087  maxfmeasure: 0.669  avgfmeasure: 0.658  adpfmeasure: 0.667  maxprecision: 0.836  avgprecision: 0.8    maxrecall: 1.0    avgrecall: 0.526  maxem: 0.793  avgem: 0.762  adpem: 0.778  sm: 0.695  wfm: 0.563  
+
+ ========>> Date: 2023-04-20 20:19:01.470821 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.126  maxfmeasure: 0.644  avgfmeasure: 0.622  adpfmeasure: 0.64   maxprecision: 0.844  avgprecision: 0.793  maxrecall: 1.0    avgrecall: 0.467  maxem: 0.773  avgem: 0.716  adpem: 0.745  sm: 0.652  wfm: 0.511  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.089  maxfmeasure: 0.669  avgfmeasure: 0.655  adpfmeasure: 0.668  maxprecision: 0.85   avgprecision: 0.796  maxrecall: 1.0    avgrecall: 0.526  maxem: 0.802  avgem: 0.759  adpem: 0.782  sm: 0.698  wfm: 0.553  
+
+ ========>> Date: 2023-04-20 20:22:11.775349 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.123  maxfmeasure: 0.644  avgfmeasure: 0.628  adpfmeasure: 0.637  maxprecision: 0.818  avgprecision: 0.795  maxrecall: 1.0    avgrecall: 0.473  maxem: 0.759  avgem: 0.722  adpem: 0.737  sm: 0.649  wfm: 0.526  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.087  maxfmeasure: 0.669  avgfmeasure: 0.66   adpfmeasure: 0.666  maxprecision: 0.823  avgprecision: 0.798  maxrecall: 1.0    avgrecall: 0.532  maxem: 0.79   avgem: 0.765  adpem: 0.776  sm: 0.696  wfm: 0.567  
+
+ ========>> Date: 2023-04-20 20:25:57.855520 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.124  maxfmeasure: 0.644  avgfmeasure: 0.628  adpfmeasure: 0.636  maxprecision: 0.819  avgprecision: 0.795  maxrecall: 1.0    avgrecall: 0.471  maxem: 0.757  avgem: 0.721  adpem: 0.736  sm: 0.648  wfm: 0.525  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.087  maxfmeasure: 0.669  avgfmeasure: 0.659  adpfmeasure: 0.666  maxprecision: 0.824  avgprecision: 0.798  maxrecall: 1.0    avgrecall: 0.531  maxem: 0.79   avgem: 0.764  adpem: 0.775  sm: 0.695  wfm: 0.566  
+
+ ========>> Date: 2023-04-20 20:29:20.035312 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.123  maxfmeasure: 0.644  avgfmeasure: 0.629  adpfmeasure: 0.637  maxprecision: 0.818  avgprecision: 0.794  maxrecall: 1.0    avgrecall: 0.474  maxem: 0.76   avgem: 0.723  adpem: 0.738  sm: 0.649  wfm: 0.526  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.087  maxfmeasure: 0.669  avgfmeasure: 0.66   adpfmeasure: 0.666  maxprecision: 0.823  avgprecision: 0.797  maxrecall: 1.0    avgrecall: 0.533  maxem: 0.791  avgem: 0.765  adpem: 0.776  sm: 0.696  wfm: 0.567  
+
+ ========>> Date: 2023-04-21 09:27:05.693566 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.086  maxfmeasure: 0.725  avgfmeasure: 0.719  adpfmeasure: 0.722  maxprecision: 0.807  avgprecision: 0.748  maxrecall: 1.0    avgrecall: 0.74   maxem: 0.855  avgem: 0.85   adpem: 0.86   sm: 0.76   wfm: 0.669  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.053  maxfmeasure: 0.738  avgfmeasure: 0.728  adpfmeasure: 0.731  maxprecision: 0.799  avgprecision: 0.75   maxrecall: 1.0    avgrecall: 0.73   maxem: 0.879  avgem: 0.876  adpem: 0.885  sm: 0.788  wfm: 0.685  
+
+ ========>> Date: 2023-04-21 19:58:34.900042 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.092  maxfmeasure: 0.719  avgfmeasure: 0.71   adpfmeasure: 0.712  maxprecision: 0.807  avgprecision: 0.738  maxrecall: 1.0    avgrecall: 0.741  maxem: 0.84   avgem: 0.836  adpem: 0.849  sm: 0.754  wfm: 0.659  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.058  maxfmeasure: 0.722  avgfmeasure: 0.705  adpfmeasure: 0.705  maxprecision: 0.785  avgprecision: 0.72   maxrecall: 1.0    avgrecall: 0.735  maxem: 0.862  avgem: 0.859  adpem: 0.878  sm: 0.778  wfm: 0.664  
+
+ ========>> Date: 2023-04-21 21:32:28.706523 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.086  maxfmeasure: 0.73   avgfmeasure: 0.721  adpfmeasure: 0.722  maxprecision: 0.805  avgprecision: 0.747  maxrecall: 1.0    avgrecall: 0.754  maxem: 0.852  avgem: 0.848  adpem: 0.856  sm: 0.764  wfm: 0.674  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.054  maxfmeasure: 0.734  avgfmeasure: 0.72   adpfmeasure: 0.72   maxprecision: 0.802  avgprecision: 0.739  maxrecall: 1.0    avgrecall: 0.732  maxem: 0.877  avgem: 0.873  adpem: 0.882  sm: 0.781  wfm: 0.676  
+
+ ========>> Date: 2023-04-21 21:38:04.994607 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.086  maxfmeasure: 0.73   avgfmeasure: 0.721  adpfmeasure: 0.722  maxprecision: 0.805  avgprecision: 0.747  maxrecall: 1.0    avgrecall: 0.754  maxem: 0.852  avgem: 0.848  adpem: 0.856  sm: 0.764  wfm: 0.674  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.054  maxfmeasure: 0.734  avgfmeasure: 0.72   adpfmeasure: 0.72   maxprecision: 0.802  avgprecision: 0.739  maxrecall: 1.0    avgrecall: 0.732  maxem: 0.877  avgem: 0.873  adpem: 0.882  sm: 0.781  wfm: 0.676  
+
+ ========>> Date: 2023-04-22 09:43:42.802636 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.086  maxfmeasure: 0.732  avgfmeasure: 0.726  adpfmeasure: 0.727  maxprecision: 0.814  avgprecision: 0.757  maxrecall: 1.0    avgrecall: 0.74   maxem: 0.853  avgem: 0.847  adpem: 0.859  sm: 0.764  wfm: 0.676  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.052  maxfmeasure: 0.738  avgfmeasure: 0.729  adpfmeasure: 0.733  maxprecision: 0.807  avgprecision: 0.755  maxrecall: 1.0    avgrecall: 0.733  maxem: 0.873  avgem: 0.867  adpem: 0.886  sm: 0.788  wfm: 0.685  
+
+ ========>> Date: 2023-04-22 11:26:01.057266 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.086  maxfmeasure: 0.729  avgfmeasure: 0.717  adpfmeasure: 0.719  maxprecision: 0.792  avgprecision: 0.733  maxrecall: 1.0    avgrecall: 0.77   maxem: 0.853  avgem: 0.849  adpem: 0.859  sm: 0.763  wfm: 0.672  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.052  maxfmeasure: 0.739  avgfmeasure: 0.725  adpfmeasure: 0.726  maxprecision: 0.803  avgprecision: 0.741  maxrecall: 1.0    avgrecall: 0.742  maxem: 0.872  avgem: 0.868  adpem: 0.887  sm: 0.789  wfm: 0.684  
+
+ ========>> Date: 2023-04-23 10:22:35.322373 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.103  maxfmeasure: 0.71   avgfmeasure: 0.698  adpfmeasure: 0.706  maxprecision: 0.849  avgprecision: 0.816  maxrecall: 1.0    avgrecall: 0.588  maxem: 0.812  avgem: 0.779  adpem: 0.793  sm: 0.708  wfm: 0.613  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.071  maxfmeasure: 0.7    avgfmeasure: 0.688  adpfmeasure: 0.698  maxprecision: 0.841  avgprecision: 0.816  maxrecall: 1.0    avgrecall: 0.589  maxem: 0.811  avgem: 0.79   adpem: 0.801  sm: 0.725  wfm: 0.61   
+
+ ========>> Date: 2023-04-25 15:26:18.157523 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.105  maxfmeasure: 0.682  avgfmeasure: 0.68   adpfmeasure: 0.682  maxprecision: 0.789  avgprecision: 0.755  maxrecall: 1.0    avgrecall: 0.639  maxem: 0.809  avgem: 0.797  adpem: 0.804  sm: 0.709  wfm: 0.607  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.07   maxfmeasure: 0.694  avgfmeasure: 0.691  adpfmeasure: 0.696  maxprecision: 0.802  avgprecision: 0.774  maxrecall: 1.0    avgrecall: 0.641  maxem: 0.82   avgem: 0.807  adpem: 0.815  sm: 0.734  wfm: 0.621  
+
+ ========>> Date: 2023-04-25 15:52:21.594175 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.072  maxfmeasure: 0.744  avgfmeasure: 0.738  adpfmeasure: 0.739  maxprecision: 0.82   avgprecision: 0.781  maxrecall: 1.0    avgrecall: 0.737  maxem: 0.854  avgem: 0.849  adpem: 0.854  sm: 0.769  wfm: 0.685  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.07   maxfmeasure: 0.694  avgfmeasure: 0.691  adpfmeasure: 0.696  maxprecision: 0.802  avgprecision: 0.774  maxrecall: 1.0    avgrecall: 0.641  maxem: 0.82   avgem: 0.807  adpem: 0.815  sm: 0.734  wfm: 0.621  
+
+ ========>> Date: 2023-04-25 19:21:46.543029 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.105  maxfmeasure: 0.682  avgfmeasure: 0.68   adpfmeasure: 0.682  maxprecision: 0.789  avgprecision: 0.755  maxrecall: 1.0    avgrecall: 0.639  maxem: 0.809  avgem: 0.797  adpem: 0.804  sm: 0.709  wfm: 0.607  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.07   maxfmeasure: 0.694  avgfmeasure: 0.691  adpfmeasure: 0.696  maxprecision: 0.802  avgprecision: 0.774  maxrecall: 1.0    avgrecall: 0.641  maxem: 0.82   avgem: 0.807  adpem: 0.815  sm: 0.734  wfm: 0.621  
+
+ ========>> Date: 2023-04-26 09:27:06.798437 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.103  maxfmeasure: 0.69   avgfmeasure: 0.679  adpfmeasure: 0.679  maxprecision: 0.759  avgprecision: 0.714  maxrecall: 1.0    avgrecall: 0.719  maxem: 0.819  avgem: 0.815  adpem: 0.82   sm: 0.724  wfm: 0.622  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.066  maxfmeasure: 0.704  avgfmeasure: 0.692  adpfmeasure: 0.692  maxprecision: 0.763  avgprecision: 0.72   maxrecall: 1.0    avgrecall: 0.74   maxem: 0.837  avgem: 0.834  adpem: 0.837  sm: 0.753  wfm: 0.64   
+
+ ========>> Date: 2023-04-29 10:04:15.076944 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.105  maxfmeasure: 0.681  avgfmeasure: 0.674  adpfmeasure: 0.676  maxprecision: 0.761  avgprecision: 0.715  maxrecall: 1.0    avgrecall: 0.712  maxem: 0.812  avgem: 0.808  adpem: 0.814  sm: 0.72   wfm: 0.615  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.068  maxfmeasure: 0.698  avgfmeasure: 0.686  adpfmeasure: 0.685  maxprecision: 0.76   avgprecision: 0.715  maxrecall: 1.0    avgrecall: 0.728  maxem: 0.839  avgem: 0.836  adpem: 0.838  sm: 0.753  wfm: 0.634  
+
+ ========>> Date: 2023-04-30 22:36:48.186247 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.099  maxfmeasure: 0.703  avgfmeasure: 0.69   adpfmeasure: 0.69   maxprecision: 0.758  avgprecision: 0.718  maxrecall: 1.0    avgrecall: 0.743  maxem: 0.824  avgem: 0.822  adpem: 0.825  sm: 0.733  wfm: 0.636  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.07   maxfmeasure: 0.698  avgfmeasure: 0.686  adpfmeasure: 0.686  maxprecision: 0.752  avgprecision: 0.716  maxrecall: 1.0    avgrecall: 0.75   maxem: 0.824  avgem: 0.822  adpem: 0.826  sm: 0.748  wfm: 0.634  
+
+ ========>> Date: 2023-05-01 15:09:38.994691 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.103  maxfmeasure: 0.706  avgfmeasure: 0.693  adpfmeasure: 0.703  maxprecision: 0.853  avgprecision: 0.818  maxrecall: 1.0    avgrecall: 0.59   maxem: 0.816  avgem: 0.78   adpem: 0.796  sm: 0.709  wfm: 0.613  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.073  maxfmeasure: 0.691  avgfmeasure: 0.679  adpfmeasure: 0.689  maxprecision: 0.835  avgprecision: 0.807  maxrecall: 1.0    avgrecall: 0.564  maxem: 0.809  avgem: 0.782  adpem: 0.793  sm: 0.716  wfm: 0.597  
+
+ ========>> Date: 2023-05-02 16:02:50.025162 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.103  maxfmeasure: 0.706  avgfmeasure: 0.693  adpfmeasure: 0.703  maxprecision: 0.853  avgprecision: 0.818  maxrecall: 1.0    avgrecall: 0.59   maxem: 0.816  avgem: 0.78   adpem: 0.796  sm: 0.709  wfm: 0.613  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.073  maxfmeasure: 0.691  avgfmeasure: 0.679  adpfmeasure: 0.689  maxprecision: 0.835  avgprecision: 0.807  maxrecall: 1.0    avgrecall: 0.564  maxem: 0.809  avgem: 0.782  adpem: 0.793  sm: 0.716  wfm: 0.597  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.056  maxfmeasure: 0.622  avgfmeasure: 0.619  adpfmeasure: 0.62   maxprecision: 0.738  avgprecision: 0.694  maxrecall: 1.0    avgrecall: 0.603  maxem: 0.806  avgem: 0.797  adpem: 0.807  sm: 0.709  wfm: 0.548  
+
+ ========>> Date: 2023-05-02 16:21:42.424099 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.098  maxfmeasure: 0.701  avgfmeasure: 0.688  adpfmeasure: 0.689  maxprecision: 0.756  avgprecision: 0.717  maxrecall: 1.0    avgrecall: 0.737  maxem: 0.824  avgem: 0.822  adpem: 0.826  sm: 0.734  wfm: 0.635  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.069  maxfmeasure: 0.7    avgfmeasure: 0.687  adpfmeasure: 0.687  maxprecision: 0.754  avgprecision: 0.716  maxrecall: 1.0    avgrecall: 0.745  maxem: 0.831  avgem: 0.828  adpem: 0.831  sm: 0.749  wfm: 0.636  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.063  maxfmeasure: 0.598  avgfmeasure: 0.576  adpfmeasure: 0.571  maxprecision: 0.623  avgprecision: 0.581  maxrecall: 1.0    avgrecall: 0.757  maxem: 0.797  avgem: 0.781  adpem: 0.777  sm: 0.705  wfm: 0.529  
+
+ ========>> Date: 2023-05-03 15:24:40.185059 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.086  maxfmeasure: 0.753  avgfmeasure: 0.75   adpfmeasure: 0.754  maxprecision: 0.863  avgprecision: 0.82   maxrecall: 1.0    avgrecall: 0.674  maxem: 0.857  avgem: 0.836  adpem: 0.848  sm: 0.755  wfm: 0.681  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.062  maxfmeasure: 0.725  avgfmeasure: 0.719  adpfmeasure: 0.728  maxprecision: 0.843  avgprecision: 0.814  maxrecall: 1.0    avgrecall: 0.629  maxem: 0.842  avgem: 0.822  adpem: 0.833  sm: 0.754  wfm: 0.649  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.051  maxfmeasure: 0.653  avgfmeasure: 0.646  adpfmeasure: 0.642  maxprecision: 0.74   avgprecision: 0.689  maxrecall: 1.0    avgrecall: 0.676  maxem: 0.829  avgem: 0.825  adpem: 0.827  sm: 0.735  wfm: 0.586  
+
+ ========>> Date: 2023-05-06 10:35:37.390383 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.099  maxfmeasure: 0.71   avgfmeasure: 0.706  adpfmeasure: 0.71   maxprecision: 0.817  avgprecision: 0.79   maxrecall: 1.0    avgrecall: 0.64   maxem: 0.821  avgem: 0.803  adpem: 0.811  sm: 0.721  wfm: 0.633  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.069  maxfmeasure: 0.7    avgfmeasure: 0.697  adpfmeasure: 0.701  maxprecision: 0.815  avgprecision: 0.793  maxrecall: 1.0    avgrecall: 0.613  maxem: 0.828  avgem: 0.813  adpem: 0.82   sm: 0.731  wfm: 0.623  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.056  maxfmeasure: 0.615  avgfmeasure: 0.609  adpfmeasure: 0.609  maxprecision: 0.691  avgprecision: 0.66   maxrecall: 1.0    avgrecall: 0.641  maxem: 0.807  avgem: 0.805  adpem: 0.809  sm: 0.709  wfm: 0.547  
+
+ ========>> Date: 2023-05-06 19:56:46.119602 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.094  maxfmeasure: 0.724  avgfmeasure: 0.722  adpfmeasure: 0.724  maxprecision: 0.808  avgprecision: 0.777  maxrecall: 1.0    avgrecall: 0.69   maxem: 0.839  avgem: 0.828  adpem: 0.833  sm: 0.743  wfm: 0.657  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.066  maxfmeasure: 0.721  avgfmeasure: 0.718  adpfmeasure: 0.719  maxprecision: 0.793  avgprecision: 0.768  maxrecall: 1.0    avgrecall: 0.686  maxem: 0.847  avgem: 0.84   adpem: 0.844  sm: 0.758  wfm: 0.657  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.058  maxfmeasure: 0.614  avgfmeasure: 0.601  adpfmeasure: 0.597  maxprecision: 0.655  avgprecision: 0.62   maxrecall: 1.0    avgrecall: 0.7    maxem: 0.815  avgem: 0.808  adpem: 0.806  sm: 0.715  wfm: 0.548  
+
+ ========>> Date: 2023-05-08 14:40:38.218031 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.098  maxfmeasure: 0.723  avgfmeasure: 0.71   adpfmeasure: 0.718  maxprecision: 0.854  avgprecision: 0.824  maxrecall: 1.0    avgrecall: 0.599  maxem: 0.821  avgem: 0.788  adpem: 0.801  sm: 0.717  wfm: 0.628  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.07   maxfmeasure: 0.708  avgfmeasure: 0.7    adpfmeasure: 0.708  maxprecision: 0.84   avgprecision: 0.816  maxrecall: 1.0    avgrecall: 0.598  maxem: 0.816  avgem: 0.796  adpem: 0.807  sm: 0.733  wfm: 0.621  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.054  maxfmeasure: 0.628  avgfmeasure: 0.625  adpfmeasure: 0.625  maxprecision: 0.724  avgprecision: 0.687  maxrecall: 1.0    avgrecall: 0.626  maxem: 0.815  avgem: 0.81   adpem: 0.815  sm: 0.716  wfm: 0.559  
+
+ ========>> Date: 2023-05-08 18:15:25.341304 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.1    maxfmeasure: 0.714  avgfmeasure: 0.706  adpfmeasure: 0.713  maxprecision: 0.844  avgprecision: 0.81   maxrecall: 1.0    avgrecall: 0.603  maxem: 0.824  avgem: 0.791  adpem: 0.805  sm: 0.716  wfm: 0.625  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.07   maxfmeasure: 0.72   avgfmeasure: 0.712  adpfmeasure: 0.718  maxprecision: 0.849  avgprecision: 0.821  maxrecall: 1.0    avgrecall: 0.599  maxem: 0.831  avgem: 0.807  adpem: 0.818  sm: 0.734  wfm: 0.632  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.054  maxfmeasure: 0.633  avgfmeasure: 0.629  adpfmeasure: 0.628  maxprecision: 0.727  avgprecision: 0.686  maxrecall: 1.0    avgrecall: 0.633  maxem: 0.819  avgem: 0.814  adpem: 0.82   sm: 0.72   wfm: 0.564  
+
+ ========>> Date: 2023-05-08 21:04:23.836304 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.101  maxfmeasure: 0.708  avgfmeasure: 0.701  adpfmeasure: 0.707  maxprecision: 0.833  avgprecision: 0.804  maxrecall: 1.0    avgrecall: 0.616  maxem: 0.816  avgem: 0.793  adpem: 0.802  sm: 0.718  wfm: 0.625  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.067  maxfmeasure: 0.71   avgfmeasure: 0.704  adpfmeasure: 0.71   maxprecision: 0.825  avgprecision: 0.8    maxrecall: 1.0    avgrecall: 0.611  maxem: 0.836  avgem: 0.816  adpem: 0.825  sm: 0.738  wfm: 0.631  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.054  maxfmeasure: 0.626  avgfmeasure: 0.622  adpfmeasure: 0.622  maxprecision: 0.713  avgprecision: 0.677  maxrecall: 1.0    avgrecall: 0.634  maxem: 0.815  avgem: 0.811  adpem: 0.816  sm: 0.716  wfm: 0.558  
+
+ ========>> Date: 2023-05-09 10:22:53.775148 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.109  maxfmeasure: 0.682  avgfmeasure: 0.679  adpfmeasure: 0.683  maxprecision: 0.794  avgprecision: 0.76   maxrecall: 1.0    avgrecall: 0.63   maxem: 0.811  avgem: 0.797  adpem: 0.804  sm: 0.704  wfm: 0.604  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.072  maxfmeasure: 0.687  avgfmeasure: 0.685  adpfmeasure: 0.688  maxprecision: 0.785  avgprecision: 0.759  maxrecall: 1.0    avgrecall: 0.634  maxem: 0.816  avgem: 0.805  adpem: 0.809  sm: 0.727  wfm: 0.613  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.062  maxfmeasure: 0.592  avgfmeasure: 0.583  adpfmeasure: 0.581  maxprecision: 0.658  avgprecision: 0.619  maxrecall: 1.0    avgrecall: 0.657  maxem: 0.797  avgem: 0.793  adpem: 0.794  sm: 0.696  wfm: 0.522  
+
+ ========>> Date: 2023-05-09 10:34:23.088611 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.106  maxfmeasure: 0.706  avgfmeasure: 0.684  adpfmeasure: 0.702  maxprecision: 0.863  avgprecision: 0.823  maxrecall: 1.0    avgrecall: 0.566  maxem: 0.821  avgem: 0.767  adpem: 0.791  sm: 0.704  wfm: 0.6    
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.071  maxfmeasure: 0.706  avgfmeasure: 0.697  adpfmeasure: 0.706  maxprecision: 0.855  avgprecision: 0.812  maxrecall: 1.0    avgrecall: 0.594  maxem: 0.835  avgem: 0.806  adpem: 0.821  sm: 0.733  wfm: 0.619  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.055  maxfmeasure: 0.629  avgfmeasure: 0.624  adpfmeasure: 0.622  maxprecision: 0.754  avgprecision: 0.689  maxrecall: 1.0    avgrecall: 0.621  maxem: 0.818  avgem: 0.809  adpem: 0.817  sm: 0.717  wfm: 0.555  
+
+ ========>> Date: 2023-05-09 10:46:25.741318 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.108  maxfmeasure: 0.671  avgfmeasure: 0.667  adpfmeasure: 0.669  maxprecision: 0.76   avgprecision: 0.712  maxrecall: 1.0    avgrecall: 0.676  maxem: 0.815  avgem: 0.807  adpem: 0.816  sm: 0.707  wfm: 0.602  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.074  maxfmeasure: 0.67   avgfmeasure: 0.666  adpfmeasure: 0.67   maxprecision: 0.758  avgprecision: 0.718  maxrecall: 1.0    avgrecall: 0.676  maxem: 0.829  avgem: 0.825  adpem: 0.831  sm: 0.729  wfm: 0.606  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.063  maxfmeasure: 0.583  avgfmeasure: 0.567  adpfmeasure: 0.563  maxprecision: 0.635  avgprecision: 0.585  maxrecall: 1.0    avgrecall: 0.677  maxem: 0.806  avgem: 0.799  adpem: 0.799  sm: 0.694  wfm: 0.513  
+
+ ========>> Date: 2023-05-09 10:54:44.647774 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.1    maxfmeasure: 0.717  avgfmeasure: 0.71   adpfmeasure: 0.715  maxprecision: 0.844  avgprecision: 0.808  maxrecall: 1.0    avgrecall: 0.611  maxem: 0.827  avgem: 0.796  adpem: 0.809  sm: 0.719  wfm: 0.628  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.068  maxfmeasure: 0.711  avgfmeasure: 0.703  adpfmeasure: 0.711  maxprecision: 0.834  avgprecision: 0.806  maxrecall: 1.0    avgrecall: 0.606  maxem: 0.836  avgem: 0.815  adpem: 0.824  sm: 0.736  wfm: 0.627  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.055  maxfmeasure: 0.624  avgfmeasure: 0.619  adpfmeasure: 0.618  maxprecision: 0.719  avgprecision: 0.674  maxrecall: 1.0    avgrecall: 0.634  maxem: 0.812  avgem: 0.808  adpem: 0.813  sm: 0.714  wfm: 0.554  
+
+ ========>> Date: 2023-05-09 15:40:17.021813 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.107  maxfmeasure: 0.687  avgfmeasure: 0.681  adpfmeasure: 0.685  maxprecision: 0.806  avgprecision: 0.78   maxrecall: 1.0    avgrecall: 0.602  maxem: 0.802  avgem: 0.784  adpem: 0.792  sm: 0.702  wfm: 0.602  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.071  maxfmeasure: 0.69   avgfmeasure: 0.684  adpfmeasure: 0.69   maxprecision: 0.805  avgprecision: 0.783  maxrecall: 1.0    avgrecall: 0.62   maxem: 0.813  avgem: 0.798  adpem: 0.806  sm: 0.727  wfm: 0.612  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.058  maxfmeasure: 0.61   avgfmeasure: 0.603  adpfmeasure: 0.601  maxprecision: 0.674  avgprecision: 0.642  maxrecall: 1.0    avgrecall: 0.659  maxem: 0.807  avgem: 0.804  adpem: 0.806  sm: 0.708  wfm: 0.543  
+
+ ========>> Date: 2023-05-09 15:50:56.856210 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.098  maxfmeasure: 0.717  avgfmeasure: 0.713  adpfmeasure: 0.717  maxprecision: 0.831  avgprecision: 0.804  maxrecall: 1.0    avgrecall: 0.632  maxem: 0.822  avgem: 0.802  adpem: 0.811  sm: 0.723  wfm: 0.636  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.068  maxfmeasure: 0.693  avgfmeasure: 0.69   adpfmeasure: 0.695  maxprecision: 0.809  avgprecision: 0.785  maxrecall: 1.0    avgrecall: 0.622  maxem: 0.819  avgem: 0.808  adpem: 0.814  sm: 0.734  wfm: 0.62   
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.055  maxfmeasure: 0.625  avgfmeasure: 0.618  adpfmeasure: 0.617  maxprecision: 0.691  avgprecision: 0.658  maxrecall: 1.0    avgrecall: 0.663  maxem: 0.815  avgem: 0.812  adpem: 0.814  sm: 0.718  wfm: 0.558  
+
+ ========>> Date: 2023-05-09 18:56:13.124931 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.101  maxfmeasure: 0.706  avgfmeasure: 0.702  adpfmeasure: 0.705  maxprecision: 0.82   avgprecision: 0.795  maxrecall: 1.0    avgrecall: 0.623  maxem: 0.816  avgem: 0.797  adpem: 0.805  sm: 0.716  wfm: 0.624  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.072  maxfmeasure: 0.685  avgfmeasure: 0.682  adpfmeasure: 0.685  maxprecision: 0.79   avgprecision: 0.765  maxrecall: 1.0    avgrecall: 0.618  maxem: 0.817  avgem: 0.805  adpem: 0.811  sm: 0.725  wfm: 0.61   
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.057  maxfmeasure: 0.612  avgfmeasure: 0.603  adpfmeasure: 0.602  maxprecision: 0.676  avgprecision: 0.643  maxrecall: 1.0    avgrecall: 0.657  maxem: 0.807  avgem: 0.804  adpem: 0.805  sm: 0.708  wfm: 0.543  
+
+ ========>> Date: 2023-05-09 21:53:14.187488 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.098  maxfmeasure: 0.72   avgfmeasure: 0.713  adpfmeasure: 0.719  maxprecision: 0.848  avgprecision: 0.812  maxrecall: 1.0    avgrecall: 0.621  maxem: 0.826  avgem: 0.8    adpem: 0.812  sm: 0.725  wfm: 0.635  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.068  maxfmeasure: 0.708  avgfmeasure: 0.702  adpfmeasure: 0.709  maxprecision: 0.845  avgprecision: 0.811  maxrecall: 1.0    avgrecall: 0.61   maxem: 0.824  avgem: 0.804  adpem: 0.814  sm: 0.737  wfm: 0.626  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.055  maxfmeasure: 0.623  avgfmeasure: 0.619  adpfmeasure: 0.618  maxprecision: 0.722  avgprecision: 0.673  maxrecall: 1.0    avgrecall: 0.636  maxem: 0.813  avgem: 0.808  adpem: 0.813  sm: 0.716  wfm: 0.554  
+
+ ========>> Date: 2023-05-10 09:19:34.795854 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.097  maxfmeasure: 0.719  avgfmeasure: 0.716  adpfmeasure: 0.719  maxprecision: 0.818  avgprecision: 0.792  maxrecall: 1.0    avgrecall: 0.651  maxem: 0.829  avgem: 0.815  adpem: 0.821  sm: 0.728  wfm: 0.642  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.071  maxfmeasure: 0.697  avgfmeasure: 0.693  adpfmeasure: 0.697  maxprecision: 0.803  avgprecision: 0.784  maxrecall: 1.0    avgrecall: 0.613  maxem: 0.827  avgem: 0.814  adpem: 0.821  sm: 0.733  wfm: 0.622  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.057  maxfmeasure: 0.61   avgfmeasure: 0.603  adpfmeasure: 0.603  maxprecision: 0.678  avgprecision: 0.647  maxrecall: 1.0    avgrecall: 0.65   maxem: 0.807  avgem: 0.804  adpem: 0.807  sm: 0.708  wfm: 0.542  
+
+ ========>> Date: 2023-05-10 17:52:19.587192 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.096  maxfmeasure: 0.719  avgfmeasure: 0.716  adpfmeasure: 0.719  maxprecision: 0.819  avgprecision: 0.792  maxrecall: 1.0    avgrecall: 0.646  maxem: 0.829  avgem: 0.812  adpem: 0.82   sm: 0.729  wfm: 0.644  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.068  maxfmeasure: 0.695  avgfmeasure: 0.687  adpfmeasure: 0.695  maxprecision: 0.804  avgprecision: 0.783  maxrecall: 1.0    avgrecall: 0.604  maxem: 0.824  avgem: 0.805  adpem: 0.815  sm: 0.731  wfm: 0.616  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.056  maxfmeasure: 0.619  avgfmeasure: 0.611  adpfmeasure: 0.611  maxprecision: 0.686  avgprecision: 0.654  maxrecall: 1.0    avgrecall: 0.658  maxem: 0.81   avgem: 0.808  adpem: 0.81   sm: 0.712  wfm: 0.551  
+
+ ========>> Date: 2023-05-11 22:31:51.159986 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.099  maxfmeasure: 0.709  avgfmeasure: 0.706  adpfmeasure: 0.707  maxprecision: 0.796  avgprecision: 0.762  maxrecall: 1.0    avgrecall: 0.677  maxem: 0.828  avgem: 0.82   adpem: 0.825  sm: 0.732  wfm: 0.638  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.075  maxfmeasure: 0.682  avgfmeasure: 0.679  adpfmeasure: 0.681  maxprecision: 0.775  avgprecision: 0.743  maxrecall: 1.0    avgrecall: 0.658  maxem: 0.814  avgem: 0.808  adpem: 0.813  sm: 0.735  wfm: 0.613  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.065  maxfmeasure: 0.593  avgfmeasure: 0.58   adpfmeasure: 0.576  maxprecision: 0.643  avgprecision: 0.603  maxrecall: 1.0    avgrecall: 0.695  maxem: 0.793  avgem: 0.787  adpem: 0.784  sm: 0.702  wfm: 0.526  
+
+ ========>> Date: 2023-05-12 09:37:32.802746 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.111  maxfmeasure: 0.7    avgfmeasure: 0.683  adpfmeasure: 0.692  maxprecision: 0.855  avgprecision: 0.829  maxrecall: 1.0    avgrecall: 0.538  maxem: 0.799  avgem: 0.763  adpem: 0.777  sm: 0.69   wfm: 0.589  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.083  maxfmeasure: 0.651  avgfmeasure: 0.636  adpfmeasure: 0.644  maxprecision: 0.806  avgprecision: 0.785  maxrecall: 1.0    avgrecall: 0.505  maxem: 0.771  avgem: 0.741  adpem: 0.754  sm: 0.687  wfm: 0.545  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.059  maxfmeasure: 0.605  avgfmeasure: 0.602  adpfmeasure: 0.604  maxprecision: 0.719  avgprecision: 0.683  maxrecall: 1.0    avgrecall: 0.576  maxem: 0.8    avgem: 0.791  adpem: 0.799  sm: 0.698  wfm: 0.53   
+
+ ========>> Date: 2023-05-12 11:59:30.480876 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.107  maxfmeasure: 0.705  avgfmeasure: 0.692  adpfmeasure: 0.7    maxprecision: 0.856  avgprecision: 0.823  maxrecall: 1.0    avgrecall: 0.57   maxem: 0.816  avgem: 0.777  adpem: 0.793  sm: 0.703  wfm: 0.607  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.074  maxfmeasure: 0.694  avgfmeasure: 0.684  adpfmeasure: 0.692  maxprecision: 0.814  avgprecision: 0.79   maxrecall: 1.0    avgrecall: 0.583  maxem: 0.825  avgem: 0.793  adpem: 0.808  sm: 0.723  wfm: 0.606  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.056  maxfmeasure: 0.616  avgfmeasure: 0.612  adpfmeasure: 0.612  maxprecision: 0.718  avgprecision: 0.673  maxrecall: 1.0    avgrecall: 0.618  maxem: 0.812  avgem: 0.806  adpem: 0.812  sm: 0.713  wfm: 0.549  
+
+ ========>> Date: 2023-05-12 18:39:30.469548 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.102  maxfmeasure: 0.715  avgfmeasure: 0.709  adpfmeasure: 0.713  maxprecision: 0.842  avgprecision: 0.81   maxrecall: 1.0    avgrecall: 0.605  maxem: 0.826  avgem: 0.801  adpem: 0.811  sm: 0.719  wfm: 0.627  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.073  maxfmeasure: 0.689  avgfmeasure: 0.683  adpfmeasure: 0.689  maxprecision: 0.819  avgprecision: 0.786  maxrecall: 1.0    avgrecall: 0.586  maxem: 0.821  avgem: 0.797  adpem: 0.81   sm: 0.726  wfm: 0.606  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.057  maxfmeasure: 0.613  avgfmeasure: 0.608  adpfmeasure: 0.606  maxprecision: 0.706  avgprecision: 0.662  maxrecall: 1.0    avgrecall: 0.632  maxem: 0.808  avgem: 0.804  adpem: 0.807  sm: 0.711  wfm: 0.546  
+
+ ========>> Date: 2023-05-12 21:33:28.827065 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.11   maxfmeasure: 0.687  avgfmeasure: 0.678  adpfmeasure: 0.684  maxprecision: 0.817  avgprecision: 0.79   maxrecall: 1.0    avgrecall: 0.571  maxem: 0.805  avgem: 0.777  adpem: 0.789  sm: 0.693  wfm: 0.591  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.08   maxfmeasure: 0.667  avgfmeasure: 0.663  adpfmeasure: 0.667  maxprecision: 0.787  avgprecision: 0.761  maxrecall: 1.0    avgrecall: 0.593  maxem: 0.8    avgem: 0.787  adpem: 0.793  sm: 0.717  wfm: 0.589  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.062  maxfmeasure: 0.584  avgfmeasure: 0.58   adpfmeasure: 0.579  maxprecision: 0.665  avgprecision: 0.63   maxrecall: 1.0    avgrecall: 0.625  maxem: 0.789  avgem: 0.786  adpem: 0.789  sm: 0.693  wfm: 0.517  
+
+ ========>> Date: 2023-05-13 18:37:58.692202 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.101  maxfmeasure: 0.714  avgfmeasure: 0.699  adpfmeasure: 0.714  maxprecision: 0.885  avgprecision: 0.79   maxrecall: 1.0    avgrecall: 0.628  maxem: 0.832  avgem: 0.799  adpem: 0.832  sm: 0.731  wfm: 0.62   
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.072  maxfmeasure: 0.703  avgfmeasure: 0.692  adpfmeasure: 0.698  maxprecision: 0.879  avgprecision: 0.778  maxrecall: 1.0    avgrecall: 0.631  maxem: 0.822  avgem: 0.801  adpem: 0.826  sm: 0.744  wfm: 0.616  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.059  maxfmeasure: 0.623  avgfmeasure: 0.607  adpfmeasure: 0.59   maxprecision: 0.793  avgprecision: 0.655  maxrecall: 1.0    avgrecall: 0.657  maxem: 0.81   avgem: 0.795  adpem: 0.793  sm: 0.722  wfm: 0.539  
+
+ ========>> Date: 2023-05-14 09:44:51.784576 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.108  maxfmeasure: 0.704  avgfmeasure: 0.687  adpfmeasure: 0.702  maxprecision: 0.878  avgprecision: 0.789  maxrecall: 1.0    avgrecall: 0.608  maxem: 0.825  avgem: 0.785  adpem: 0.819  sm: 0.724  wfm: 0.606  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.072  maxfmeasure: 0.704  avgfmeasure: 0.691  adpfmeasure: 0.696  maxprecision: 0.866  avgprecision: 0.762  maxrecall: 1.0    avgrecall: 0.654  maxem: 0.839  avgem: 0.817  adpem: 0.842  sm: 0.753  wfm: 0.624  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.061  maxfmeasure: 0.618  avgfmeasure: 0.597  adpfmeasure: 0.574  maxprecision: 0.779  avgprecision: 0.633  maxrecall: 1.0    avgrecall: 0.684  maxem: 0.808  avgem: 0.792  adpem: 0.781  sm: 0.723  wfm: 0.533  
+
+ ========>> Date: 2023-05-14 19:35:26.572372 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.102  maxfmeasure: 0.712  avgfmeasure: 0.695  adpfmeasure: 0.711  maxprecision: 0.888  avgprecision: 0.785  maxrecall: 1.0    avgrecall: 0.632  maxem: 0.83   avgem: 0.795  adpem: 0.829  sm: 0.733  wfm: 0.617  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.07   maxfmeasure: 0.719  avgfmeasure: 0.704  adpfmeasure: 0.713  maxprecision: 0.867  avgprecision: 0.773  maxrecall: 1.0    avgrecall: 0.658  maxem: 0.847  avgem: 0.815  adpem: 0.849  sm: 0.763  wfm: 0.634  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.063  maxfmeasure: 0.607  avgfmeasure: 0.589  adpfmeasure: 0.57   maxprecision: 0.783  avgprecision: 0.639  maxrecall: 1.0    avgrecall: 0.656  maxem: 0.798  avgem: 0.78   adpem: 0.775  sm: 0.714  wfm: 0.518  
+
+ ========>> Date: 2023-05-14 22:00:56.739374 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.1    maxfmeasure: 0.724  avgfmeasure: 0.708  adpfmeasure: 0.723  maxprecision: 0.9    avgprecision: 0.801  maxrecall: 1.0    avgrecall: 0.629  maxem: 0.837  avgem: 0.799  adpem: 0.835  sm: 0.735  wfm: 0.628  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.073  maxfmeasure: 0.71   avgfmeasure: 0.696  adpfmeasure: 0.708  maxprecision: 0.882  avgprecision: 0.788  maxrecall: 1.0    avgrecall: 0.632  maxem: 0.835  avgem: 0.799  adpem: 0.835  sm: 0.747  wfm: 0.62   
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.059  maxfmeasure: 0.619  avgfmeasure: 0.601  adpfmeasure: 0.581  maxprecision: 0.794  avgprecision: 0.648  maxrecall: 1.0    avgrecall: 0.661  maxem: 0.808  avgem: 0.792  adpem: 0.785  sm: 0.722  wfm: 0.533  
+
+ ========>> Date: 2023-05-15 09:17:57.944228 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.105  maxfmeasure: 0.711  avgfmeasure: 0.692  adpfmeasure: 0.711  maxprecision: 0.9    avgprecision: 0.801  maxrecall: 1.0    avgrecall: 0.604  maxem: 0.829  avgem: 0.787  adpem: 0.825  sm: 0.723  wfm: 0.61   
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.074  maxfmeasure: 0.701  avgfmeasure: 0.688  adpfmeasure: 0.7    maxprecision: 0.866  avgprecision: 0.777  maxrecall: 1.0    avgrecall: 0.629  maxem: 0.826  avgem: 0.797  adpem: 0.828  sm: 0.742  wfm: 0.614  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.061  maxfmeasure: 0.616  avgfmeasure: 0.596  adpfmeasure: 0.575  maxprecision: 0.788  avgprecision: 0.638  maxrecall: 1.0    avgrecall: 0.674  maxem: 0.805  avgem: 0.789  adpem: 0.779  sm: 0.721  wfm: 0.53   
+
+ ========>> Date: 2023-05-15 11:58:00.733378 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.103  maxfmeasure: 0.715  avgfmeasure: 0.698  adpfmeasure: 0.714  maxprecision: 0.899  avgprecision: 0.799  maxrecall: 1.0    avgrecall: 0.614  maxem: 0.834  avgem: 0.794  adpem: 0.833  sm: 0.73   wfm: 0.617  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.072  maxfmeasure: 0.698  avgfmeasure: 0.685  adpfmeasure: 0.697  maxprecision: 0.869  avgprecision: 0.777  maxrecall: 1.0    avgrecall: 0.62   maxem: 0.831  avgem: 0.8    adpem: 0.834  sm: 0.745  wfm: 0.61   
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.06   maxfmeasure: 0.611  avgfmeasure: 0.593  adpfmeasure: 0.575  maxprecision: 0.795  avgprecision: 0.647  maxrecall: 1.0    avgrecall: 0.644  maxem: 0.802  avgem: 0.784  adpem: 0.781  sm: 0.717  wfm: 0.522  
+
+ ========>> Date: 2023-05-15 22:20:43.004758 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.103  maxfmeasure: 0.716  avgfmeasure: 0.699  adpfmeasure: 0.715  maxprecision: 0.893  avgprecision: 0.8    maxrecall: 1.0    avgrecall: 0.616  maxem: 0.83   avgem: 0.789  adpem: 0.825  sm: 0.729  wfm: 0.617  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.07   maxfmeasure: 0.711  avgfmeasure: 0.698  adpfmeasure: 0.707  maxprecision: 0.872  avgprecision: 0.778  maxrecall: 1.0    avgrecall: 0.643  maxem: 0.834  avgem: 0.811  adpem: 0.838  sm: 0.755  wfm: 0.627  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.059  maxfmeasure: 0.627  avgfmeasure: 0.609  adpfmeasure: 0.59   maxprecision: 0.796  avgprecision: 0.654  maxrecall: 1.0    avgrecall: 0.665  maxem: 0.815  avgem: 0.798  adpem: 0.792  sm: 0.726  wfm: 0.541  
+
+ ========>> Date: 2023-05-16 14:41:35.158142 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.1    maxfmeasure: 0.721  avgfmeasure: 0.704  adpfmeasure: 0.715  maxprecision: 0.89   avgprecision: 0.786  maxrecall: 1.0    avgrecall: 0.648  maxem: 0.839  avgem: 0.805  adpem: 0.835  sm: 0.741  wfm: 0.63   
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.071  maxfmeasure: 0.71   avgfmeasure: 0.698  adpfmeasure: 0.705  maxprecision: 0.878  avgprecision: 0.771  maxrecall: 1.0    avgrecall: 0.659  maxem: 0.834  avgem: 0.811  adpem: 0.838  sm: 0.757  wfm: 0.627  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.061  maxfmeasure: 0.615  avgfmeasure: 0.596  adpfmeasure: 0.575  maxprecision: 0.79   avgprecision: 0.639  maxrecall: 1.0    avgrecall: 0.67   maxem: 0.806  avgem: 0.789  adpem: 0.781  sm: 0.721  wfm: 0.529  
+
+ ========>> Date: 2023-05-16 14:54:58.080054 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.105  maxfmeasure: 0.707  avgfmeasure: 0.69   adpfmeasure: 0.709  maxprecision: 0.896  avgprecision: 0.796  maxrecall: 1.0    avgrecall: 0.607  maxem: 0.825  avgem: 0.785  adpem: 0.823  sm: 0.723  wfm: 0.608  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.075  maxfmeasure: 0.703  avgfmeasure: 0.69   adpfmeasure: 0.702  maxprecision: 0.88   avgprecision: 0.78   maxrecall: 1.0    avgrecall: 0.624  maxem: 0.829  avgem: 0.799  adpem: 0.833  sm: 0.741  wfm: 0.614  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.06   maxfmeasure: 0.619  avgfmeasure: 0.602  adpfmeasure: 0.584  maxprecision: 0.795  avgprecision: 0.65   maxrecall: 1.0    avgrecall: 0.66   maxem: 0.806  avgem: 0.79   adpem: 0.786  sm: 0.72   wfm: 0.534  
+
+ ========>> Date: 2023-05-16 19:19:51.277548 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.101  maxfmeasure: 0.718  avgfmeasure: 0.702  adpfmeasure: 0.718  maxprecision: 0.89   avgprecision: 0.795  maxrecall: 1.0    avgrecall: 0.621  maxem: 0.835  avgem: 0.797  adpem: 0.833  sm: 0.732  wfm: 0.622  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.071  maxfmeasure: 0.708  avgfmeasure: 0.697  adpfmeasure: 0.707  maxprecision: 0.872  avgprecision: 0.781  maxrecall: 1.0    avgrecall: 0.641  maxem: 0.837  avgem: 0.806  adpem: 0.839  sm: 0.753  wfm: 0.624  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.06   maxfmeasure: 0.619  avgfmeasure: 0.601  adpfmeasure: 0.581  maxprecision: 0.793  avgprecision: 0.646  maxrecall: 1.0    avgrecall: 0.665  maxem: 0.806  avgem: 0.791  adpem: 0.784  sm: 0.722  wfm: 0.533  
+
+ ========>> Date: 2023-05-17 09:24:51.950426 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.101  maxfmeasure: 0.718  avgfmeasure: 0.702  adpfmeasure: 0.718  maxprecision: 0.89   avgprecision: 0.795  maxrecall: 1.0    avgrecall: 0.621  maxem: 0.835  avgem: 0.797  adpem: 0.833  sm: 0.732  wfm: 0.622  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.071  maxfmeasure: 0.708  avgfmeasure: 0.697  adpfmeasure: 0.707  maxprecision: 0.872  avgprecision: 0.781  maxrecall: 1.0    avgrecall: 0.641  maxem: 0.837  avgem: 0.806  adpem: 0.839  sm: 0.753  wfm: 0.624  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.06   maxfmeasure: 0.619  avgfmeasure: 0.601  adpfmeasure: 0.581  maxprecision: 0.793  avgprecision: 0.646  maxrecall: 1.0    avgrecall: 0.665  maxem: 0.806  avgem: 0.791  adpem: 0.784  sm: 0.722  wfm: 0.533  
+
+ ========>> Date: 2023-05-17 09:43:36.622682 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.106  maxfmeasure: 0.708  avgfmeasure: 0.691  adpfmeasure: 0.707  maxprecision: 0.897  avgprecision: 0.79   maxrecall: 1.0    avgrecall: 0.616  maxem: 0.825  avgem: 0.787  adpem: 0.822  sm: 0.727  wfm: 0.611  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.072  maxfmeasure: 0.697  avgfmeasure: 0.685  adpfmeasure: 0.693  maxprecision: 0.876  avgprecision: 0.768  maxrecall: 1.0    avgrecall: 0.641  maxem: 0.827  avgem: 0.807  adpem: 0.831  sm: 0.749  wfm: 0.616  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.06   maxfmeasure: 0.616  avgfmeasure: 0.598  adpfmeasure: 0.579  maxprecision: 0.791  avgprecision: 0.642  maxrecall: 1.0    avgrecall: 0.668  maxem: 0.805  avgem: 0.79   adpem: 0.783  sm: 0.721  wfm: 0.531  
+
+ ========>> Date: 2023-05-17 16:07:35.281846 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.101  maxfmeasure: 0.715  avgfmeasure: 0.701  adpfmeasure: 0.711  maxprecision: 0.892  avgprecision: 0.786  maxrecall: 1.0    avgrecall: 0.633  maxem: 0.834  avgem: 0.804  adpem: 0.833  sm: 0.736  wfm: 0.623  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.069  maxfmeasure: 0.713  avgfmeasure: 0.702  adpfmeasure: 0.705  maxprecision: 0.886  avgprecision: 0.773  maxrecall: 1.0    avgrecall: 0.655  maxem: 0.841  avgem: 0.816  adpem: 0.843  sm: 0.755  wfm: 0.63   
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.059  maxfmeasure: 0.627  avgfmeasure: 0.604  adpfmeasure: 0.579  maxprecision: 0.789  avgprecision: 0.635  maxrecall: 1.0    avgrecall: 0.69   maxem: 0.817  avgem: 0.8    adpem: 0.785  sm: 0.728  wfm: 0.54   
+
+ ========>> Date: 2023-05-17 19:27:30.389207 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.103  maxfmeasure: 0.701  avgfmeasure: 0.684  adpfmeasure: 0.703  maxprecision: 0.871  avgprecision: 0.777  maxrecall: 1.0    avgrecall: 0.625  maxem: 0.823  avgem: 0.789  adpem: 0.825  sm: 0.727  wfm: 0.608  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.07   maxfmeasure: 0.711  avgfmeasure: 0.699  adpfmeasure: 0.704  maxprecision: 0.873  avgprecision: 0.769  maxrecall: 1.0    avgrecall: 0.661  maxem: 0.838  avgem: 0.817  adpem: 0.842  sm: 0.755  wfm: 0.628  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.061  maxfmeasure: 0.612  avgfmeasure: 0.594  adpfmeasure: 0.575  maxprecision: 0.785  avgprecision: 0.638  maxrecall: 1.0    avgrecall: 0.667  maxem: 0.804  avgem: 0.788  adpem: 0.781  sm: 0.718  wfm: 0.527  
+
+ ========>> Date: 2023-06-02 21:40:00.525191 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.103  maxfmeasure: 0.708  avgfmeasure: 0.694  adpfmeasure: 0.711  maxprecision: 0.899  avgprecision: 0.793  maxrecall: 1.0    avgrecall: 0.626  maxem: 0.821  avgem: 0.789  adpem: 0.821  sm: 0.727  wfm: 0.614  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.072  maxfmeasure: 0.7    avgfmeasure: 0.689  adpfmeasure: 0.7    maxprecision: 0.87   avgprecision: 0.774  maxrecall: 1.0    avgrecall: 0.629  maxem: 0.832  avgem: 0.808  adpem: 0.835  sm: 0.745  wfm: 0.617  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.059  maxfmeasure: 0.62   avgfmeasure: 0.603  adpfmeasure: 0.587  maxprecision: 0.79   avgprecision: 0.65   maxrecall: 1.0    avgrecall: 0.66   maxem: 0.809  avgem: 0.794  adpem: 0.791  sm: 0.722  wfm: 0.536  
+
+ ========>> Date: 2023-06-05 09:41:11.076517 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.104  maxfmeasure: 0.712  avgfmeasure: 0.697  adpfmeasure: 0.713  maxprecision: 0.898  avgprecision: 0.798  maxrecall: 1.0    avgrecall: 0.612  maxem: 0.83   avgem: 0.791  adpem: 0.827  sm: 0.726  wfm: 0.615  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.072  maxfmeasure: 0.704  avgfmeasure: 0.691  adpfmeasure: 0.704  maxprecision: 0.87   avgprecision: 0.784  maxrecall: 1.0    avgrecall: 0.623  maxem: 0.829  avgem: 0.8    adpem: 0.831  sm: 0.743  wfm: 0.614  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.059  maxfmeasure: 0.623  avgfmeasure: 0.607  adpfmeasure: 0.589  maxprecision: 0.794  avgprecision: 0.654  maxrecall: 1.0    avgrecall: 0.662  maxem: 0.812  avgem: 0.797  adpem: 0.792  sm: 0.723  wfm: 0.539  
+
+ ========>> Date: 2023-06-08 21:40:44.781750 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.102  maxfmeasure: 0.713  avgfmeasure: 0.698  adpfmeasure: 0.715  maxprecision: 0.894  avgprecision: 0.801  maxrecall: 1.0    avgrecall: 0.607  maxem: 0.83   avgem: 0.792  adpem: 0.829  sm: 0.725  wfm: 0.615  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.071  maxfmeasure: 0.709  avgfmeasure: 0.698  adpfmeasure: 0.708  maxprecision: 0.87   avgprecision: 0.786  maxrecall: 1.0    avgrecall: 0.63   maxem: 0.835  avgem: 0.803  adpem: 0.836  sm: 0.746  wfm: 0.624  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.059  maxfmeasure: 0.619  avgfmeasure: 0.603  adpfmeasure: 0.588  maxprecision: 0.785  avgprecision: 0.649  maxrecall: 1.0    avgrecall: 0.666  maxem: 0.804  avgem: 0.79   adpem: 0.789  sm: 0.721  wfm: 0.536  
+
+ ========>> Date: 2023-06-09 20:07:07.288103 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.101  maxfmeasure: 0.711  avgfmeasure: 0.697  adpfmeasure: 0.713  maxprecision: 0.892  avgprecision: 0.788  maxrecall: 1.0    avgrecall: 0.637  maxem: 0.829  avgem: 0.798  adpem: 0.83   sm: 0.733  wfm: 0.621  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.073  maxfmeasure: 0.701  avgfmeasure: 0.69   adpfmeasure: 0.702  maxprecision: 0.868  avgprecision: 0.783  maxrecall: 1.0    avgrecall: 0.628  maxem: 0.822  avgem: 0.797  adpem: 0.826  sm: 0.745  wfm: 0.615  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.06   maxfmeasure: 0.619  avgfmeasure: 0.602  adpfmeasure: 0.586  maxprecision: 0.789  avgprecision: 0.65   maxrecall: 1.0    avgrecall: 0.664  maxem: 0.805  avgem: 0.79   adpem: 0.787  sm: 0.72   wfm: 0.534  
+
+ ========>> Date: 2023-06-14 11:22:56.981340 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.096  maxfmeasure: 0.709  avgfmeasure: 0.675  adpfmeasure: 0.678  maxprecision: 0.89   avgprecision: 0.71   maxrecall: 1.0    avgrecall: 0.753  maxem: 0.831  avgem: 0.801  adpem: 0.817  sm: 0.76   wfm: 0.613  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.094  maxfmeasure: 0.637  avgfmeasure: 0.614  adpfmeasure: 0.625  maxprecision: 0.829  avgprecision: 0.665  maxrecall: 1.0    avgrecall: 0.681  maxem: 0.805  avgem: 0.78   adpem: 0.794  sm: 0.724  wfm: 0.548  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.081  maxfmeasure: 0.572  avgfmeasure: 0.528  adpfmeasure: 0.495  maxprecision: 0.768  avgprecision: 0.544  maxrecall: 1.0    avgrecall: 0.73   maxem: 0.784  avgem: 0.742  adpem: 0.707  sm: 0.691  wfm: 0.459  
+
+ ========>> Date: 2023-06-14 14:40:05.963704 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.11   maxfmeasure: 0.703  avgfmeasure: 0.68   adpfmeasure: 0.703  maxprecision: 0.882  avgprecision: 0.799  maxrecall: 1.0    avgrecall: 0.562  maxem: 0.825  avgem: 0.772  adpem: 0.815  sm: 0.708  wfm: 0.59   
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.077  maxfmeasure: 0.701  avgfmeasure: 0.689  adpfmeasure: 0.693  maxprecision: 0.864  avgprecision: 0.755  maxrecall: 1.0    avgrecall: 0.637  maxem: 0.843  avgem: 0.826  adpem: 0.837  sm: 0.747  wfm: 0.617  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.061  maxfmeasure: 0.615  avgfmeasure: 0.601  adpfmeasure: 0.59   maxprecision: 0.801  avgprecision: 0.662  maxrecall: 1.0    avgrecall: 0.626  maxem: 0.812  avgem: 0.796  adpem: 0.793  sm: 0.719  wfm: 0.53   
+
+ ========>> Date: 2023-06-14 14:52:21.147108 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.123  maxfmeasure: 0.66   avgfmeasure: 0.638  adpfmeasure: 0.639  maxprecision: 0.829  avgprecision: 0.667  maxrecall: 1.0    avgrecall: 0.731  maxem: 0.797  avgem: 0.776  adpem: 0.784  sm: 0.717  wfm: 0.571  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.091  maxfmeasure: 0.665  avgfmeasure: 0.624  adpfmeasure: 0.615  maxprecision: 0.782  avgprecision: 0.62   maxrecall: 1.0    avgrecall: 0.778  maxem: 0.836  avgem: 0.804  adpem: 0.794  sm: 0.737  wfm: 0.571  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.083  maxfmeasure: 0.573  avgfmeasure: 0.517  adpfmeasure: 0.49   maxprecision: 0.708  avgprecision: 0.514  maxrecall: 1.0    avgrecall: 0.771  maxem: 0.788  avgem: 0.734  adpem: 0.703  sm: 0.683  wfm: 0.459  
+
+ ========>> Date: 2023-06-14 15:05:51.785178 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.092  maxfmeasure: 0.714  avgfmeasure: 0.685  adpfmeasure: 0.682  maxprecision: 0.87   avgprecision: 0.707  maxrecall: 1.0    avgrecall: 0.778  maxem: 0.833  avgem: 0.813  adpem: 0.818  sm: 0.76   wfm: 0.629  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.091  maxfmeasure: 0.665  avgfmeasure: 0.624  adpfmeasure: 0.615  maxprecision: 0.782  avgprecision: 0.62   maxrecall: 1.0    avgrecall: 0.778  maxem: 0.836  avgem: 0.804  adpem: 0.794  sm: 0.737  wfm: 0.571  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.083  maxfmeasure: 0.573  avgfmeasure: 0.517  adpfmeasure: 0.49   maxprecision: 0.708  avgprecision: 0.514  maxrecall: 1.0    avgrecall: 0.771  maxem: 0.788  avgem: 0.734  adpem: 0.703  sm: 0.683  wfm: 0.459  
+
+ ========>> Date: 2023-06-15 09:48:45.490297 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.1    maxfmeasure: 0.711  avgfmeasure: 0.704  adpfmeasure: 0.711  maxprecision: 0.86   avgprecision: 0.78   maxrecall: 1.0    avgrecall: 0.651  maxem: 0.831  avgem: 0.812  adpem: 0.831  sm: 0.734  wfm: 0.633  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.063  maxfmeasure: 0.721  avgfmeasure: 0.715  adpfmeasure: 0.718  maxprecision: 0.842  avgprecision: 0.773  maxrecall: 1.0    avgrecall: 0.679  maxem: 0.852  avgem: 0.845  adpem: 0.853  sm: 0.763  wfm: 0.652  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.054  maxfmeasure: 0.643  avgfmeasure: 0.624  adpfmeasure: 0.609  maxprecision: 0.752  avgprecision: 0.65   maxrecall: 1.0    avgrecall: 0.696  maxem: 0.833  avgem: 0.824  adpem: 0.816  sm: 0.733  wfm: 0.567  
+
+ ========>> Date: 2023-06-15 11:21:59.987278 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.131  maxfmeasure: 0.645  avgfmeasure: 0.615  adpfmeasure: 0.628  maxprecision: 0.863  avgprecision: 0.658  maxrecall: 1.0    avgrecall: 0.717  maxem: 0.785  avgem: 0.756  adpem: 0.78   sm: 0.716  wfm: 0.547  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.091  maxfmeasure: 0.647  avgfmeasure: 0.62   adpfmeasure: 0.629  maxprecision: 0.853  avgprecision: 0.664  maxrecall: 1.0    avgrecall: 0.687  maxem: 0.811  avgem: 0.785  adpem: 0.808  sm: 0.732  wfm: 0.555  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.078  maxfmeasure: 0.584  avgfmeasure: 0.539  adpfmeasure: 0.506  maxprecision: 0.796  avgprecision: 0.561  maxrecall: 1.0    avgrecall: 0.726  maxem: 0.785  avgem: 0.749  adpem: 0.724  sm: 0.698  wfm: 0.469  
+
+ ========>> Date: 2023-06-15 15:06:47.176910 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.098  maxfmeasure: 0.715  avgfmeasure: 0.709  adpfmeasure: 0.715  maxprecision: 0.858  avgprecision: 0.783  maxrecall: 1.0    avgrecall: 0.659  maxem: 0.834  avgem: 0.814  adpem: 0.836  sm: 0.737  wfm: 0.637  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.062  maxfmeasure: 0.73   avgfmeasure: 0.719  adpfmeasure: 0.717  maxprecision: 0.839  avgprecision: 0.76   maxrecall: 1.0    avgrecall: 0.699  maxem: 0.856  avgem: 0.85   adpem: 0.858  sm: 0.769  wfm: 0.66   
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.056  maxfmeasure: 0.636  avgfmeasure: 0.613  adpfmeasure: 0.597  maxprecision: 0.732  avgprecision: 0.631  maxrecall: 1.0    avgrecall: 0.713  maxem: 0.828  avgem: 0.816  adpem: 0.807  sm: 0.73   wfm: 0.559  
+
+ ========>> Date: 2023-06-19 19:30:11.573539 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.12   maxfmeasure: 0.667  avgfmeasure: 0.639  adpfmeasure: 0.652  maxprecision: 0.873  avgprecision: 0.681  maxrecall: 1.0    avgrecall: 0.704  maxem: 0.81   avgem: 0.777  adpem: 0.805  sm: 0.725  wfm: 0.571  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.086  maxfmeasure: 0.667  avgfmeasure: 0.64   adpfmeasure: 0.641  maxprecision: 0.889  avgprecision: 0.693  maxrecall: 1.0    avgrecall: 0.685  maxem: 0.822  avgem: 0.797  adpem: 0.821  sm: 0.74   wfm: 0.571  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.074  maxfmeasure: 0.594  avgfmeasure: 0.552  adpfmeasure: 0.518  maxprecision: 0.811  avgprecision: 0.577  maxrecall: 1.0    avgrecall: 0.726  maxem: 0.79   avgem: 0.756  adpem: 0.731  sm: 0.706  wfm: 0.482  
+
+ ========>> Date: 2023-06-19 20:05:46.468823 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.12   maxfmeasure: 0.667  avgfmeasure: 0.639  adpfmeasure: 0.652  maxprecision: 0.873  avgprecision: 0.681  maxrecall: 1.0    avgrecall: 0.704  maxem: 0.81   avgem: 0.777  adpem: 0.805  sm: 0.725  wfm: 0.571  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.086  maxfmeasure: 0.667  avgfmeasure: 0.64   adpfmeasure: 0.641  maxprecision: 0.889  avgprecision: 0.693  maxrecall: 1.0    avgrecall: 0.685  maxem: 0.822  avgem: 0.797  adpem: 0.821  sm: 0.74   wfm: 0.571  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.074  maxfmeasure: 0.594  avgfmeasure: 0.552  adpfmeasure: 0.518  maxprecision: 0.811  avgprecision: 0.577  maxrecall: 1.0    avgrecall: 0.726  maxem: 0.79   avgem: 0.756  adpem: 0.731  sm: 0.706  wfm: 0.482  
+
+ ========>> Date: 2023-06-20 09:32:29.340130 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.089  maxfmeasure: 0.725  avgfmeasure: 0.718  adpfmeasure: 0.723  maxprecision: 0.836  avgprecision: 0.762  maxrecall: 1.0    avgrecall: 0.714  maxem: 0.844  avgem: 0.833  adpem: 0.847  sm: 0.752  wfm: 0.657  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.058  maxfmeasure: 0.736  avgfmeasure: 0.716  adpfmeasure: 0.715  maxprecision: 0.821  avgprecision: 0.74   maxrecall: 1.0    avgrecall: 0.744  maxem: 0.875  avgem: 0.869  adpem: 0.87   sm: 0.78   wfm: 0.67   
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.055  maxfmeasure: 0.631  avgfmeasure: 0.61   adpfmeasure: 0.598  maxprecision: 0.727  avgprecision: 0.631  maxrecall: 1.0    avgrecall: 0.721  maxem: 0.816  avgem: 0.808  adpem: 0.803  sm: 0.725  wfm: 0.556  
+
+ ========>> Date: 2023-06-20 12:05:03.137661 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.094  maxfmeasure: 0.726  avgfmeasure: 0.717  adpfmeasure: 0.73   maxprecision: 0.869  avgprecision: 0.804  maxrecall: 1.0    avgrecall: 0.647  maxem: 0.836  avgem: 0.811  adpem: 0.833  sm: 0.739  wfm: 0.644  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.061  maxfmeasure: 0.731  avgfmeasure: 0.726  adpfmeasure: 0.731  maxprecision: 0.855  avgprecision: 0.785  maxrecall: 1.0    avgrecall: 0.691  maxem: 0.858  avgem: 0.848  adpem: 0.857  sm: 0.774  wfm: 0.666  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.053  maxfmeasure: 0.641  avgfmeasure: 0.628  adpfmeasure: 0.618  maxprecision: 0.757  avgprecision: 0.663  maxrecall: 1.0    avgrecall: 0.694  maxem: 0.824  avgem: 0.817  adpem: 0.815  sm: 0.731  wfm: 0.569  
+
+ ========>> Date: 2023-06-20 15:13:42.478878 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.091  maxfmeasure: 0.731  avgfmeasure: 0.722  adpfmeasure: 0.734  maxprecision: 0.872  avgprecision: 0.806  maxrecall: 1.0    avgrecall: 0.643  maxem: 0.846  avgem: 0.815  adpem: 0.84   sm: 0.741  wfm: 0.647  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.059  maxfmeasure: 0.735  avgfmeasure: 0.729  adpfmeasure: 0.731  maxprecision: 0.866  avgprecision: 0.796  maxrecall: 1.0    avgrecall: 0.677  maxem: 0.855  avgem: 0.846  adpem: 0.856  sm: 0.772  wfm: 0.665  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.052  maxfmeasure: 0.645  avgfmeasure: 0.629  adpfmeasure: 0.618  maxprecision: 0.755  avgprecision: 0.659  maxrecall: 1.0    avgrecall: 0.709  maxem: 0.824  avgem: 0.818  adpem: 0.816  sm: 0.734  wfm: 0.573  
+
+ ========>> Date: 2023-06-20 19:12:48.339237 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.097  maxfmeasure: 0.723  avgfmeasure: 0.709  adpfmeasure: 0.725  maxprecision: 0.903  avgprecision: 0.808  maxrecall: 1.0    avgrecall: 0.623  maxem: 0.836  avgem: 0.796  adpem: 0.833  sm: 0.732  wfm: 0.628  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.071  maxfmeasure: 0.714  avgfmeasure: 0.704  adpfmeasure: 0.713  maxprecision: 0.883  avgprecision: 0.792  maxrecall: 1.0    avgrecall: 0.645  maxem: 0.834  avgem: 0.809  adpem: 0.837  sm: 0.75   wfm: 0.628  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.058  maxfmeasure: 0.621  avgfmeasure: 0.609  adpfmeasure: 0.601  maxprecision: 0.793  avgprecision: 0.67   maxrecall: 1.0    avgrecall: 0.65   maxem: 0.801  avgem: 0.788  adpem: 0.797  sm: 0.717  wfm: 0.539  
+
+ ========>> Date: 2023-06-20 19:55:44.004361 <<======== 
+
+ ========>> Date: 2023-06-20 20:09:43.803178 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.091  maxfmeasure: 0.731  avgfmeasure: 0.722  adpfmeasure: 0.734  maxprecision: 0.872  avgprecision: 0.806  maxrecall: 1.0    avgrecall: 0.643  maxem: 0.846  avgem: 0.815  adpem: 0.84   sm: 0.741  wfm: 0.647  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.059  maxfmeasure: 0.735  avgfmeasure: 0.729  adpfmeasure: 0.731  maxprecision: 0.866  avgprecision: 0.796  maxrecall: 1.0    avgrecall: 0.677  maxem: 0.855  avgem: 0.846  adpem: 0.856  sm: 0.772  wfm: 0.665  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.066  maxfmeasure: 0.748  avgfmeasure: 0.742  adpfmeasure: 0.745  maxprecision: 0.877  avgprecision: 0.806  maxrecall: 1.0    avgrecall: 0.706  maxem: 0.857  avgem: 0.842  adpem: 0.856  sm: 0.771  wfm: 0.679  
+
+ ========>> Date: 2023-06-21 15:49:43.531232 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.096  maxfmeasure: 0.722  avgfmeasure: 0.711  adpfmeasure: 0.725  maxprecision: 0.866  avgprecision: 0.808  maxrecall: 1.0    avgrecall: 0.627  maxem: 0.837  avgem: 0.801  adpem: 0.829  sm: 0.733  wfm: 0.636  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.059  maxfmeasure: 0.738  avgfmeasure: 0.732  adpfmeasure: 0.739  maxprecision: 0.864  avgprecision: 0.8    maxrecall: 1.0    avgrecall: 0.675  maxem: 0.862  avgem: 0.838  adpem: 0.854  sm: 0.771  wfm: 0.668  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.052  maxfmeasure: 0.647  avgfmeasure: 0.635  adpfmeasure: 0.626  maxprecision: 0.768  avgprecision: 0.676  maxrecall: 1.0    avgrecall: 0.688  maxem: 0.824  avgem: 0.818  adpem: 0.819  sm: 0.734  wfm: 0.575  
+
+ ========>> Date: 2023-06-21 16:16:34.228215 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.096  maxfmeasure: 0.722  avgfmeasure: 0.711  adpfmeasure: 0.725  maxprecision: 0.866  avgprecision: 0.808  maxrecall: 1.0    avgrecall: 0.627  maxem: 0.837  avgem: 0.801  adpem: 0.829  sm: 0.733  wfm: 0.636  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.059  maxfmeasure: 0.738  avgfmeasure: 0.732  adpfmeasure: 0.739  maxprecision: 0.864  avgprecision: 0.8    maxrecall: 1.0    avgrecall: 0.675  maxem: 0.862  avgem: 0.838  adpem: 0.854  sm: 0.771  wfm: 0.668  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.052  maxfmeasure: 0.647  avgfmeasure: 0.635  adpfmeasure: 0.626  maxprecision: 0.768  avgprecision: 0.676  maxrecall: 1.0    avgrecall: 0.688  maxem: 0.824  avgem: 0.818  adpem: 0.819  sm: 0.734  wfm: 0.575  
+ ========>> Dataset: WSA4 <<======== 
+[WSA4] mae: 0.066  maxfmeasure: 0.753  avgfmeasure: 0.747  adpfmeasure: 0.752  maxprecision: 0.881  avgprecision: 0.816  maxrecall: 1.0    avgrecall: 0.697  maxem: 0.86   avgem: 0.843  adpem: 0.858  sm: 0.773  wfm: 0.683  
+
+ ========>> Date: 2023-06-21 20:52:23.440442 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.094  maxfmeasure: 0.727  avgfmeasure: 0.716  adpfmeasure: 0.722  maxprecision: 0.883  avgprecision: 0.772  maxrecall: 1.0    avgrecall: 0.695  maxem: 0.842  avgem: 0.825  adpem: 0.844  sm: 0.753  wfm: 0.65   
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.067  maxfmeasure: 0.717  avgfmeasure: 0.707  adpfmeasure: 0.706  maxprecision: 0.866  avgprecision: 0.764  maxrecall: 1.0    avgrecall: 0.671  maxem: 0.847  avgem: 0.828  adpem: 0.849  sm: 0.763  wfm: 0.641  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.059  maxfmeasure: 0.634  avgfmeasure: 0.611  adpfmeasure: 0.588  maxprecision: 0.777  avgprecision: 0.638  maxrecall: 1.0    avgrecall: 0.716  maxem: 0.814  avgem: 0.8    adpem: 0.789  sm: 0.73   wfm: 0.55   
+ ========>> Dataset: WSA4 <<======== 
+[WSA4] mae: 0.072  maxfmeasure: 0.739  avgfmeasure: 0.728  adpfmeasure: 0.725  maxprecision: 0.886  avgprecision: 0.781  maxrecall: 1.0    avgrecall: 0.722  maxem: 0.85   avgem: 0.835  adpem: 0.846  sm: 0.772  wfm: 0.665  
+
+ ========>> Date: 2023-06-22 11:36:58.915608 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.092  maxfmeasure: 0.729  avgfmeasure: 0.72   adpfmeasure: 0.733  maxprecision: 0.876  avgprecision: 0.812  maxrecall: 1.0    avgrecall: 0.636  maxem: 0.843  avgem: 0.811  adpem: 0.837  sm: 0.737  wfm: 0.645  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.059  maxfmeasure: 0.743  avgfmeasure: 0.737  adpfmeasure: 0.737  maxprecision: 0.857  avgprecision: 0.793  maxrecall: 1.0    avgrecall: 0.689  maxem: 0.863  avgem: 0.854  adpem: 0.863  sm: 0.778  wfm: 0.677  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.053  maxfmeasure: 0.646  avgfmeasure: 0.628  adpfmeasure: 0.616  maxprecision: 0.743  avgprecision: 0.652  maxrecall: 1.0    avgrecall: 0.721  maxem: 0.823  avgem: 0.817  adpem: 0.814  sm: 0.735  wfm: 0.574  
+ ========>> Dataset: WSA4 <<======== 
+[WSA4] mae: 0.066  maxfmeasure: 0.751  avgfmeasure: 0.745  adpfmeasure: 0.745  maxprecision: 0.868  avgprecision: 0.798  maxrecall: 1.0    avgrecall: 0.722  maxem: 0.861  avgem: 0.85   adpem: 0.86   sm: 0.775  wfm: 0.685  
+
+ ========>> Date: 2023-06-23 12:26:22.684446 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.088  maxfmeasure: 0.738  avgfmeasure: 0.732  adpfmeasure: 0.74   maxprecision: 0.872  avgprecision: 0.805  maxrecall: 1.0    avgrecall: 0.658  maxem: 0.851  avgem: 0.826  adpem: 0.849  sm: 0.748  wfm: 0.66   
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.06   maxfmeasure: 0.74   avgfmeasure: 0.735  adpfmeasure: 0.735  maxprecision: 0.852  avgprecision: 0.787  maxrecall: 1.0    avgrecall: 0.688  maxem: 0.866  avgem: 0.856  adpem: 0.865  sm: 0.777  wfm: 0.674  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.053  maxfmeasure: 0.648  avgfmeasure: 0.629  adpfmeasure: 0.618  maxprecision: 0.743  avgprecision: 0.653  maxrecall: 1.0    avgrecall: 0.722  maxem: 0.825  avgem: 0.818  adpem: 0.816  sm: 0.735  wfm: 0.576  
+ ========>> Dataset: WSA4 <<======== 
+[WSA4] mae: 0.066  maxfmeasure: 0.75   avgfmeasure: 0.744  adpfmeasure: 0.745  maxprecision: 0.865  avgprecision: 0.796  maxrecall: 1.0    avgrecall: 0.725  maxem: 0.861  avgem: 0.85   adpem: 0.86   sm: 0.775  wfm: 0.686  
+
+ ========>> Date: 2023-06-23 17:32:24.328969 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.089  maxfmeasure: 0.741  avgfmeasure: 0.733  adpfmeasure: 0.743  maxprecision: 0.875  avgprecision: 0.809  maxrecall: 1.0    avgrecall: 0.664  maxem: 0.85   avgem: 0.826  adpem: 0.848  sm: 0.748  wfm: 0.662  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.057  maxfmeasure: 0.75   avgfmeasure: 0.743  adpfmeasure: 0.743  maxprecision: 0.856  avgprecision: 0.789  maxrecall: 1.0    avgrecall: 0.697  maxem: 0.875  avgem: 0.865  adpem: 0.875  sm: 0.783  wfm: 0.684  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.053  maxfmeasure: 0.646  avgfmeasure: 0.63   adpfmeasure: 0.618  maxprecision: 0.744  avgprecision: 0.653  maxrecall: 1.0    avgrecall: 0.729  maxem: 0.826  avgem: 0.818  adpem: 0.815  sm: 0.737  wfm: 0.577  
+ ========>> Dataset: WSA4 <<======== 
+[WSA4] mae: 0.065  maxfmeasure: 0.751  avgfmeasure: 0.745  adpfmeasure: 0.747  maxprecision: 0.868  avgprecision: 0.799  maxrecall: 1.0    avgrecall: 0.725  maxem: 0.861  avgem: 0.849  adpem: 0.86   sm: 0.776  wfm: 0.686  
+
+ ========>> Date: 2023-06-23 21:36:35.377691 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.095  maxfmeasure: 0.721  avgfmeasure: 0.714  adpfmeasure: 0.726  maxprecision: 0.86   avgprecision: 0.778  maxrecall: 1.0    avgrecall: 0.679  maxem: 0.836  avgem: 0.815  adpem: 0.843  sm: 0.744  wfm: 0.646  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.059  maxfmeasure: 0.743  avgfmeasure: 0.73   adpfmeasure: 0.727  maxprecision: 0.87   avgprecision: 0.776  maxrecall: 1.0    avgrecall: 0.71   maxem: 0.864  avgem: 0.855  adpem: 0.865  sm: 0.781  wfm: 0.673  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.054  maxfmeasure: 0.64   avgfmeasure: 0.619  adpfmeasure: 0.604  maxprecision: 0.754  avgprecision: 0.641  maxrecall: 1.0    avgrecall: 0.725  maxem: 0.823  avgem: 0.814  adpem: 0.809  sm: 0.733  wfm: 0.565  
+ ========>> Dataset: WSA4 <<======== 
+[WSA4] mae: 0.067  maxfmeasure: 0.743  avgfmeasure: 0.735  adpfmeasure: 0.734  maxprecision: 0.871  avgprecision: 0.784  maxrecall: 1.0    avgrecall: 0.73   maxem: 0.856  avgem: 0.846  adpem: 0.857  sm: 0.774  wfm: 0.677  
+
+ ========>> Date: 2023-06-24 11:08:34.680167 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.085  maxfmeasure: 0.746  avgfmeasure: 0.741  adpfmeasure: 0.745  maxprecision: 0.859  avgprecision: 0.799  maxrecall: 1.0    avgrecall: 0.695  maxem: 0.857  avgem: 0.842  adpem: 0.854  sm: 0.759  wfm: 0.677  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.058  maxfmeasure: 0.745  avgfmeasure: 0.736  adpfmeasure: 0.735  maxprecision: 0.834  avgprecision: 0.774  maxrecall: 1.0    avgrecall: 0.711  maxem: 0.871  avgem: 0.866  adpem: 0.87   sm: 0.779  wfm: 0.68   
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.054  maxfmeasure: 0.649  avgfmeasure: 0.623  adpfmeasure: 0.61   maxprecision: 0.717  avgprecision: 0.634  maxrecall: 1.0    avgrecall: 0.75   maxem: 0.828  avgem: 0.817  adpem: 0.81   sm: 0.734  wfm: 0.574  
+ ========>> Dataset: WSA4 <<======== 
+[WSA4] mae: 0.065  maxfmeasure: 0.754  avgfmeasure: 0.745  adpfmeasure: 0.743  maxprecision: 0.848  avgprecision: 0.782  maxrecall: 1.0    avgrecall: 0.75   maxem: 0.865  avgem: 0.859  adpem: 0.864  sm: 0.781  wfm: 0.692  
+
+ ========>> Date: 2023-06-24 19:42:58.847817 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.09   maxfmeasure: 0.735  avgfmeasure: 0.727  adpfmeasure: 0.737  maxprecision: 0.879  avgprecision: 0.818  maxrecall: 1.0    avgrecall: 0.632  maxem: 0.85   avgem: 0.814  adpem: 0.837  sm: 0.741  wfm: 0.651  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.057  maxfmeasure: 0.756  avgfmeasure: 0.749  adpfmeasure: 0.748  maxprecision: 0.856  avgprecision: 0.794  maxrecall: 1.0    avgrecall: 0.708  maxem: 0.873  avgem: 0.865  adpem: 0.873  sm: 0.785  wfm: 0.692  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.052  maxfmeasure: 0.655  avgfmeasure: 0.635  adpfmeasure: 0.623  maxprecision: 0.742  avgprecision: 0.656  maxrecall: 1.0    avgrecall: 0.728  maxem: 0.833  avgem: 0.825  adpem: 0.818  sm: 0.74   wfm: 0.583  
+ ========>> Dataset: WSA4 <<======== 
+[WSA4] mae: 0.064  maxfmeasure: 0.759  avgfmeasure: 0.753  adpfmeasure: 0.752  maxprecision: 0.866  avgprecision: 0.801  maxrecall: 1.0    avgrecall: 0.731  maxem: 0.866  avgem: 0.856  adpem: 0.864  sm: 0.781  wfm: 0.695  
+
+ ========>> Date: 2023-06-25 09:54:38.303196 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.091  maxfmeasure: 0.732  avgfmeasure: 0.724  adpfmeasure: 0.736  maxprecision: 0.87   avgprecision: 0.81   maxrecall: 1.0    avgrecall: 0.648  maxem: 0.841  avgem: 0.812  adpem: 0.836  sm: 0.74   wfm: 0.65   
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.057  maxfmeasure: 0.745  avgfmeasure: 0.739  adpfmeasure: 0.741  maxprecision: 0.862  avgprecision: 0.795  maxrecall: 1.0    avgrecall: 0.686  maxem: 0.871  avgem: 0.857  adpem: 0.871  sm: 0.78   wfm: 0.68   
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.052  maxfmeasure: 0.651  avgfmeasure: 0.636  adpfmeasure: 0.627  maxprecision: 0.746  avgprecision: 0.662  maxrecall: 1.0    avgrecall: 0.716  maxem: 0.826  avgem: 0.821  adpem: 0.821  sm: 0.737  wfm: 0.581  
+ ========>> Dataset: WSA4 <<======== 
+[WSA4] mae: 0.065  maxfmeasure: 0.756  avgfmeasure: 0.75   adpfmeasure: 0.751  maxprecision: 0.872  avgprecision: 0.807  maxrecall: 1.0    avgrecall: 0.72   maxem: 0.863  avgem: 0.851  adpem: 0.862  sm: 0.777  wfm: 0.691  
+
+ ========>> Date: 2023-06-26 10:36:22.978587 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.063  maxfmeasure: 0.763  avgfmeasure: 0.755  adpfmeasure: 0.755  maxprecision: 0.813  avgprecision: 0.77   maxrecall: 1.0    avgrecall: 0.817  maxem: 0.87   avgem: 0.867  adpem: 0.874  sm: 0.813  wfm: 0.731  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.047  maxfmeasure: 0.829  avgfmeasure: 0.822  adpfmeasure: 0.821  maxprecision: 0.888  avgprecision: 0.844  maxrecall: 1.0    avgrecall: 0.822  maxem: 0.915  avgem: 0.909  adpem: 0.917  sm: 0.844  wfm: 0.794  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.045  maxfmeasure: 0.912  avgfmeasure: 0.908  adpfmeasure: 0.91   maxprecision: 0.96   avgprecision: 0.934  maxrecall: 0.999  avgrecall: 0.869  maxem: 0.943  avgem: 0.935  adpem: 0.939  sm: 0.889  wfm: 0.884  
+ ========>> Dataset: WSA4 <<======== 
+[WSA4] mae: 0.036  maxfmeasure: 0.909  avgfmeasure: 0.904  adpfmeasure: 0.907  maxprecision: 0.963  avgprecision: 0.931  maxrecall: 1.0    avgrecall: 0.855  maxem: 0.954  avgem: 0.945  adpem: 0.952  sm: 0.888  wfm: 0.881  
+ ========>> Dataset: WSA5 <<======== 
+[WSA5] mae: 0.127  maxfmeasure: 0.828  avgfmeasure: 0.824  adpfmeasure: 0.826  maxprecision: 0.959  avgprecision: 0.933  maxrecall: 1.0    avgrecall: 0.698  maxem: 0.835  avgem: 0.813  adpem: 0.816  sm: 0.767  wfm: 0.762  
+
+ ========>> Date: 2023-07-03 16:35:45.826522 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.082  maxfmeasure: 0.76   avgfmeasure: 0.757  adpfmeasure: 0.761  maxprecision: 0.854  avgprecision: 0.826  maxrecall: 1.0    avgrecall: 0.68   maxem: 0.866  avgem: 0.845  adpem: 0.856  sm: 0.762  wfm: 0.692  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.054  maxfmeasure: 0.755  avgfmeasure: 0.752  adpfmeasure: 0.754  maxprecision: 0.845  avgprecision: 0.818  maxrecall: 1.0    avgrecall: 0.686  maxem: 0.872  avgem: 0.866  adpem: 0.868  sm: 0.781  wfm: 0.694  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.045  maxfmeasure: 0.674  avgfmeasure: 0.663  adpfmeasure: 0.661  maxprecision: 0.729  avgprecision: 0.691  maxrecall: 1.0    avgrecall: 0.72   maxem: 0.847  avgem: 0.844  adpem: 0.847  sm: 0.75   wfm: 0.614  
+ ========>> Dataset: WSA4 <<======== 
+[WSA4] mae: 0.057  maxfmeasure: 0.775  avgfmeasure: 0.772  adpfmeasure: 0.773  maxprecision: 0.848  avgprecision: 0.818  maxrecall: 1.0    avgrecall: 0.745  maxem: 0.88   avgem: 0.872  adpem: 0.877  sm: 0.791  wfm: 0.72   
+
+ ========>> Date: 2023-07-03 20:06:27.049149 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.087  maxfmeasure: 0.736  avgfmeasure: 0.731  adpfmeasure: 0.736  maxprecision: 0.855  avgprecision: 0.788  maxrecall: 1.0    avgrecall: 0.686  maxem: 0.857  avgem: 0.839  adpem: 0.855  sm: 0.753  wfm: 0.665  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.055  maxfmeasure: 0.753  avgfmeasure: 0.734  adpfmeasure: 0.729  maxprecision: 0.834  avgprecision: 0.757  maxrecall: 1.0    avgrecall: 0.732  maxem: 0.888  avgem: 0.882  adpem: 0.885  sm: 0.786  wfm: 0.684  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.055  maxfmeasure: 0.65   avgfmeasure: 0.617  adpfmeasure: 0.603  maxprecision: 0.716  avgprecision: 0.623  maxrecall: 1.0    avgrecall: 0.763  maxem: 0.831  avgem: 0.816  adpem: 0.808  sm: 0.733  wfm: 0.57   
+ ========>> Dataset: WSA4 <<======== 
+[WSA4] mae: 0.065  maxfmeasure: 0.752  avgfmeasure: 0.741  adpfmeasure: 0.737  maxprecision: 0.848  avgprecision: 0.773  maxrecall: 1.0    avgrecall: 0.762  maxem: 0.862  avgem: 0.857  adpem: 0.861  sm: 0.781  wfm: 0.689  
+
+ ========>> Date: 2023-07-04 20:26:45.097538 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.084  maxfmeasure: 0.761  avgfmeasure: 0.753  adpfmeasure: 0.763  maxprecision: 0.892  avgprecision: 0.84   maxrecall: 1.0    avgrecall: 0.656  maxem: 0.866  avgem: 0.829  adpem: 0.855  sm: 0.76   wfm: 0.682  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.054  maxfmeasure: 0.758  avgfmeasure: 0.753  adpfmeasure: 0.754  maxprecision: 0.88   avgprecision: 0.823  maxrecall: 1.0    avgrecall: 0.678  maxem: 0.877  avgem: 0.867  adpem: 0.874  sm: 0.786  wfm: 0.693  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.044  maxfmeasure: 0.685  avgfmeasure: 0.67   adpfmeasure: 0.66   maxprecision: 0.785  avgprecision: 0.7    maxrecall: 1.0    avgrecall: 0.715  maxem: 0.853  avgem: 0.848  adpem: 0.847  sm: 0.76   wfm: 0.618  
+ ========>> Dataset: WSA4 <<======== 
+[WSA4] mae: 0.057  maxfmeasure: 0.78   avgfmeasure: 0.775  adpfmeasure: 0.774  maxprecision: 0.885  avgprecision: 0.825  maxrecall: 1.0    avgrecall: 0.74   maxem: 0.882  avgem: 0.871  adpem: 0.88   sm: 0.798  wfm: 0.722  
+
+ ========>> Date: 2023-07-09 18:01:42.342100 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.082  maxfmeasure: 0.769  avgfmeasure: 0.763  adpfmeasure: 0.77   maxprecision: 0.89   avgprecision: 0.846  maxrecall: 1.0    avgrecall: 0.667  maxem: 0.867  avgem: 0.836  adpem: 0.851  sm: 0.766  wfm: 0.695  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.045  maxfmeasure: 0.792  avgfmeasure: 0.788  adpfmeasure: 0.789  maxprecision: 0.901  avgprecision: 0.858  maxrecall: 1.0    avgrecall: 0.709  maxem: 0.892  avgem: 0.871  adpem: 0.887  sm: 0.809  wfm: 0.733  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.038  maxfmeasure: 0.727  avgfmeasure: 0.712  adpfmeasure: 0.702  maxprecision: 0.811  avgprecision: 0.742  maxrecall: 1.0    avgrecall: 0.741  maxem: 0.874  avgem: 0.87   adpem: 0.872  sm: 0.782  wfm: 0.664  
+ ========>> Dataset: WSA4 <<======== 
+[WSA4] mae: 0.051  maxfmeasure: 0.803  avgfmeasure: 0.798  adpfmeasure: 0.797  maxprecision: 0.892  avgprecision: 0.844  maxrecall: 1.0    avgrecall: 0.757  maxem: 0.896  avgem: 0.886  adpem: 0.893  sm: 0.813  wfm: 0.748  
+
+ ========>> Date: 2023-07-09 21:06:47.709664 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.082  maxfmeasure: 0.769  avgfmeasure: 0.763  adpfmeasure: 0.77   maxprecision: 0.89   avgprecision: 0.846  maxrecall: 1.0    avgrecall: 0.667  maxem: 0.867  avgem: 0.836  adpem: 0.851  sm: 0.766  wfm: 0.695  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.045  maxfmeasure: 0.792  avgfmeasure: 0.788  adpfmeasure: 0.789  maxprecision: 0.901  avgprecision: 0.858  maxrecall: 1.0    avgrecall: 0.709  maxem: 0.892  avgem: 0.871  adpem: 0.887  sm: 0.809  wfm: 0.733  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.038  maxfmeasure: 0.727  avgfmeasure: 0.712  adpfmeasure: 0.702  maxprecision: 0.811  avgprecision: 0.742  maxrecall: 1.0    avgrecall: 0.741  maxem: 0.874  avgem: 0.87   adpem: 0.872  sm: 0.782  wfm: 0.664  
+ ========>> Dataset: WSA4 <<======== 
+[WSA4] mae: 0.051  maxfmeasure: 0.803  avgfmeasure: 0.798  adpfmeasure: 0.797  maxprecision: 0.892  avgprecision: 0.844  maxrecall: 1.0    avgrecall: 0.757  maxem: 0.896  avgem: 0.886  adpem: 0.893  sm: 0.813  wfm: 0.748  
+
+ ========>> Date: 2023-07-16 21:49:35.421122 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.076  maxfmeasure: 0.783  avgfmeasure: 0.778  adpfmeasure: 0.778  maxprecision: 0.883  avgprecision: 0.825  maxrecall: 1.0    avgrecall: 0.739  maxem: 0.876  avgem: 0.866  adpem: 0.875  sm: 0.79   wfm: 0.724  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.043  maxfmeasure: 0.81   avgfmeasure: 0.802  adpfmeasure: 0.799  maxprecision: 0.886  avgprecision: 0.834  maxrecall: 1.0    avgrecall: 0.783  maxem: 0.908  avgem: 0.901  adpem: 0.906  sm: 0.832  wfm: 0.761  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.04   maxfmeasure: 0.73   avgfmeasure: 0.705  adpfmeasure: 0.69   maxprecision: 0.794  avgprecision: 0.717  maxrecall: 1.0    avgrecall: 0.79   maxem: 0.872  avgem: 0.864  adpem: 0.857  sm: 0.788  wfm: 0.664  
+ ========>> Dataset: WSA4 <<======== 
+[WSA4] mae: 0.051  maxfmeasure: 0.806  avgfmeasure: 0.798  adpfmeasure: 0.794  maxprecision: 0.882  avgprecision: 0.829  maxrecall: 1.0    avgrecall: 0.794  maxem: 0.894  avgem: 0.889  adpem: 0.892  sm: 0.822  wfm: 0.755  
+
+ ========>> Date: 2023-07-20 20:30:56.621590 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.077  maxfmeasure: 0.777  avgfmeasure: 0.773  adpfmeasure: 0.775  maxprecision: 0.882  avgprecision: 0.826  maxrecall: 1.0    avgrecall: 0.727  maxem: 0.873  avgem: 0.858  adpem: 0.868  sm: 0.785  wfm: 0.716  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.042  maxfmeasure: 0.807  avgfmeasure: 0.8    adpfmeasure: 0.798  maxprecision: 0.888  avgprecision: 0.836  maxrecall: 1.0    avgrecall: 0.777  maxem: 0.906  avgem: 0.9    adpem: 0.905  sm: 0.827  wfm: 0.757  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.04   maxfmeasure: 0.729  avgfmeasure: 0.703  adpfmeasure: 0.688  maxprecision: 0.794  avgprecision: 0.716  maxrecall: 1.0    avgrecall: 0.788  maxem: 0.873  avgem: 0.864  adpem: 0.856  sm: 0.787  wfm: 0.661  
+ ========>> Dataset: WSA4 <<======== 
+[WSA4] mae: 0.051  maxfmeasure: 0.807  avgfmeasure: 0.799  adpfmeasure: 0.795  maxprecision: 0.886  avgprecision: 0.832  maxrecall: 1.0    avgrecall: 0.791  maxem: 0.895  avgem: 0.889  adpem: 0.893  sm: 0.822  wfm: 0.756  
+
+ ========>> Date: 2023-07-20 21:02:25.759746 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.075  maxfmeasure: 0.781  avgfmeasure: 0.776  adpfmeasure: 0.777  maxprecision: 0.877  avgprecision: 0.82   maxrecall: 1.0    avgrecall: 0.747  maxem: 0.878  avgem: 0.87   adpem: 0.878  sm: 0.792  wfm: 0.725  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.044  maxfmeasure: 0.804  avgfmeasure: 0.793  adpfmeasure: 0.79   maxprecision: 0.879  avgprecision: 0.824  maxrecall: 1.0    avgrecall: 0.782  maxem: 0.902  avgem: 0.897  adpem: 0.901  sm: 0.828  wfm: 0.753  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.04   maxfmeasure: 0.73   avgfmeasure: 0.706  adpfmeasure: 0.691  maxprecision: 0.796  avgprecision: 0.719  maxrecall: 1.0    avgrecall: 0.788  maxem: 0.874  avgem: 0.866  adpem: 0.86   sm: 0.789  wfm: 0.665  
+ ========>> Dataset: WSA4 <<======== 
+[WSA4] mae: 0.05   maxfmeasure: 0.805  avgfmeasure: 0.797  adpfmeasure: 0.794  maxprecision: 0.882  avgprecision: 0.829  maxrecall: 1.0    avgrecall: 0.793  maxem: 0.894  avgem: 0.889  adpem: 0.892  sm: 0.822  wfm: 0.754  
+
+ ========>> Date: 2023-07-21 10:00:33.624173 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.08   maxfmeasure: 0.771  avgfmeasure: 0.765  adpfmeasure: 0.766  maxprecision: 0.871  avgprecision: 0.808  maxrecall: 1.0    avgrecall: 0.744  maxem: 0.869  avgem: 0.86   adpem: 0.87   sm: 0.782  wfm: 0.713  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.045  maxfmeasure: 0.797  avgfmeasure: 0.789  adpfmeasure: 0.788  maxprecision: 0.882  avgprecision: 0.823  maxrecall: 1.0    avgrecall: 0.765  maxem: 0.895  avgem: 0.888  adpem: 0.895  sm: 0.822  wfm: 0.746  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.041  maxfmeasure: 0.721  avgfmeasure: 0.698  adpfmeasure: 0.685  maxprecision: 0.792  avgprecision: 0.715  maxrecall: 1.0    avgrecall: 0.776  maxem: 0.866  avgem: 0.859  adpem: 0.854  sm: 0.782  wfm: 0.654  
+ ========>> Dataset: WSA4 <<======== 
+[WSA4] mae: 0.052  maxfmeasure: 0.799  avgfmeasure: 0.791  adpfmeasure: 0.789  maxprecision: 0.878  avgprecision: 0.824  maxrecall: 1.0    avgrecall: 0.788  maxem: 0.891  avgem: 0.886  adpem: 0.89   sm: 0.817  wfm: 0.747  
+
+ ========>> Date: 2023-07-21 19:20:45.555807 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.103  maxfmeasure: 0.691  avgfmeasure: 0.678  adpfmeasure: 0.681  maxprecision: 0.77   avgprecision: 0.714  maxrecall: 1.0    avgrecall: 0.743  maxem: 0.817  avgem: 0.813  adpem: 0.817  sm: 0.726  wfm: 0.627  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.064  maxfmeasure: 0.714  avgfmeasure: 0.692  adpfmeasure: 0.69   maxprecision: 0.775  avgprecision: 0.722  maxrecall: 1.0    avgrecall: 0.746  maxem: 0.846  avgem: 0.84   adpem: 0.841  sm: 0.761  wfm: 0.647  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.058  maxfmeasure: 0.624  avgfmeasure: 0.594  adpfmeasure: 0.586  maxprecision: 0.66   avgprecision: 0.599  maxrecall: 1.0    avgrecall: 0.765  maxem: 0.817  avgem: 0.8    adpem: 0.795  sm: 0.717  wfm: 0.549  
+ ========>> Dataset: WSA4 <<======== 
+[WSA4] mae: 0.07   maxfmeasure: 0.737  avgfmeasure: 0.717  adpfmeasure: 0.714  maxprecision: 0.788  avgprecision: 0.735  maxrecall: 1.0    avgrecall: 0.788  maxem: 0.852  avgem: 0.847  adpem: 0.848  sm: 0.768  wfm: 0.673  
+
+ ========>> Date: 2023-07-22 09:27:08.359039 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.075  maxfmeasure: 0.785  avgfmeasure: 0.773  adpfmeasure: 0.772  maxprecision: 0.861  avgprecision: 0.798  maxrecall: 1.0    avgrecall: 0.782  maxem: 0.88   avgem: 0.875  adpem: 0.881  sm: 0.797  wfm: 0.728  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.042  maxfmeasure: 0.809  avgfmeasure: 0.789  adpfmeasure: 0.784  maxprecision: 0.86   avgprecision: 0.801  maxrecall: 1.0    avgrecall: 0.818  maxem: 0.913  avgem: 0.907  adpem: 0.907  sm: 0.832  wfm: 0.756  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.042  maxfmeasure: 0.727  avgfmeasure: 0.685  adpfmeasure: 0.668  maxprecision: 0.766  avgprecision: 0.683  maxrecall: 1.0    avgrecall: 0.822  maxem: 0.876  avgem: 0.857  adpem: 0.846  sm: 0.783  wfm: 0.65   
+ ========>> Dataset: WSA4 <<======== 
+[WSA4] mae: 0.05   maxfmeasure: 0.805  avgfmeasure: 0.787  adpfmeasure: 0.781  maxprecision: 0.862  avgprecision: 0.802  maxrecall: 1.0    avgrecall: 0.826  maxem: 0.896  avgem: 0.891  adpem: 0.89   sm: 0.824  wfm: 0.751  
+
+ ========>> Date: 2023-07-23 10:16:56.443505 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.09   maxfmeasure: 0.739  avgfmeasure: 0.734  adpfmeasure: 0.738  maxprecision: 0.876  avgprecision: 0.8    maxrecall: 1.0    avgrecall: 0.681  maxem: 0.848  avgem: 0.832  adpem: 0.848  sm: 0.755  wfm: 0.667  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.054  maxfmeasure: 0.773  avgfmeasure: 0.764  adpfmeasure: 0.76   maxprecision: 0.888  avgprecision: 0.812  maxrecall: 1.0    avgrecall: 0.707  maxem: 0.89   avgem: 0.879  adpem: 0.886  sm: 0.796  wfm: 0.705  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.049  maxfmeasure: 0.682  avgfmeasure: 0.654  adpfmeasure: 0.635  maxprecision: 0.781  avgprecision: 0.672  maxrecall: 1.0    avgrecall: 0.754  maxem: 0.842  avgem: 0.832  adpem: 0.824  sm: 0.754  wfm: 0.602  
+ ========>> Dataset: WSA4 <<======== 
+[WSA4] mae: 0.064  maxfmeasure: 0.763  avgfmeasure: 0.755  adpfmeasure: 0.753  maxprecision: 0.878  avgprecision: 0.803  maxrecall: 1.0    avgrecall: 0.737  maxem: 0.866  avgem: 0.856  adpem: 0.865  sm: 0.785  wfm: 0.697  
+
+ ========>> Date: 2023-07-23 10:57:47.616944 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.08   maxfmeasure: 0.771  avgfmeasure: 0.765  adpfmeasure: 0.766  maxprecision: 0.871  avgprecision: 0.808  maxrecall: 1.0    avgrecall: 0.744  maxem: 0.869  avgem: 0.86   adpem: 0.87   sm: 0.782  wfm: 0.713  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.045  maxfmeasure: 0.797  avgfmeasure: 0.789  adpfmeasure: 0.788  maxprecision: 0.882  avgprecision: 0.823  maxrecall: 1.0    avgrecall: 0.765  maxem: 0.895  avgem: 0.888  adpem: 0.895  sm: 0.822  wfm: 0.746  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.041  maxfmeasure: 0.721  avgfmeasure: 0.698  adpfmeasure: 0.685  maxprecision: 0.792  avgprecision: 0.715  maxrecall: 1.0    avgrecall: 0.776  maxem: 0.866  avgem: 0.859  adpem: 0.854  sm: 0.782  wfm: 0.654  
+ ========>> Dataset: WSA4 <<======== 
+[WSA4] mae: 0.052  maxfmeasure: 0.799  avgfmeasure: 0.791  adpfmeasure: 0.789  maxprecision: 0.878  avgprecision: 0.824  maxrecall: 1.0    avgrecall: 0.788  maxem: 0.891  avgem: 0.886  adpem: 0.89   sm: 0.817  wfm: 0.747  
+
+ ========>> Date: 2023-07-26 16:00:12.420527 <<======== 
+ ========>> Dataset: WSA1 <<======== 
+[WSA1] mae: 0.074  maxfmeasure: 0.786  avgfmeasure: 0.781  adpfmeasure: 0.782  maxprecision: 0.882  avgprecision: 0.826  maxrecall: 1.0    avgrecall: 0.746  maxem: 0.88   avgem: 0.869  adpem: 0.878  sm: 0.794  wfm: 0.729  
+ ========>> Dataset: WSA2 <<======== 
+[WSA2] mae: 0.041  maxfmeasure: 0.817  avgfmeasure: 0.805  adpfmeasure: 0.802  maxprecision: 0.889  avgprecision: 0.833  maxrecall: 1.0    avgrecall: 0.799  maxem: 0.912  avgem: 0.901  adpem: 0.912  sm: 0.835  wfm: 0.767  
+ ========>> Dataset: WSA3 <<======== 
+[WSA3] mae: 0.039  maxfmeasure: 0.738  avgfmeasure: 0.711  adpfmeasure: 0.695  maxprecision: 0.802  avgprecision: 0.722  maxrecall: 1.0    avgrecall: 0.792  maxem: 0.88   avgem: 0.872  adpem: 0.865  sm: 0.794  wfm: 0.671  
+ ========>> Dataset: WSA4 <<======== 
+[WSA4] mae: 0.049  maxfmeasure: 0.809  avgfmeasure: 0.8    adpfmeasure: 0.796  maxprecision: 0.883  avgprecision: 0.829  maxrecall: 1.0    avgrecall: 0.8    maxem: 0.898  avgem: 0.893  adpem: 0.896  sm: 0.826  wfm: 0.759  
+
+ ========>> Date: 2025-03-22 20:12:29.002488 <<======== 

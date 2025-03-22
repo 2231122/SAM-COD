@@ -1,0 +1,31 @@
+{
+    "WSA1": {
+      "mask": {
+        "path": "./../CodDataset/test/CAMO/GT",
+        "prefix": "camourflage_",
+        "suffix": ".png"
+      }
+    },
+    "WSA2": {
+      "mask": {
+        "path": "./../CodDataset/test/CHAMELEON/GT",
+        "prefix": "animal-",
+        "suffix": ".png"
+      }
+    },
+    "WSA3": {
+      "mask": {
+        "path": "./../CodDataset/test/COD10K/GT",
+        "prefix": "COD10K-",
+        "suffix": ".png"
+      }
+    },
+   "WSA4": {
+      "mask": {
+        "path": "./../CodDataset/test/HCK4/GT",
+        "prefix": "",
+        "suffix": ".png"
+      }
+    }
+}
+
