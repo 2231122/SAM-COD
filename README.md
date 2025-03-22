@@ -84,7 +84,7 @@ python Filter_and_Matcher.py
 
 The pretrained model weight can be found here: [Pretrain_model](https://drive.google.com/file/d/1169AvHlRnyKdScEHm6yWKSyne3j0N2EZ/view?usp=sharing) . (put it in './SAM-guided-Unified-Framework-for-Weakly-Supervised-Camouflaged-Object-Detection/Pretrain_model.pth').
 
-The masks for distillation are in the path './CodDataset/train/masks'.
+The masks for distillation are in the path './CodDataset/train/Scribble'.
   
 Put the Prompt-kd-mask in './SAM-guided-Unified-Framework-for-Weakly-Supervised-Camouflaged-Object-Detection/CodDataset/train/S_GT'. 
 
