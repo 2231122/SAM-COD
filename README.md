@@ -89,7 +89,9 @@ The masks for distillation are in the path './CodDataset/train/masks'.
 Put the Prompt-kd-mask in './SAM-guided-Unified-Framework-for-Weakly-Supervised-Camouflaged-Object-Detection/CodDataset/train/S_GT'. 
 
 [Point-kd-mask]([https://github.com/2231122/PCOD](https://drive.google.com/file/d/1_la4aF9VMv_VG3pQIhc1PXNJa8dxIn26/view?usp=drive_link)). Following [P-COD_Hint_area_generator](https://github.com/2231122/PCOD).
+
 [Scribble-kd-mask]()
+
 [Box-kd-mask]()
 
 ```shell
