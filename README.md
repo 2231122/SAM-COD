@@ -100,7 +100,7 @@ python train.py
 
 - Test and Evaluate:
 
-Put model-best.pth in './SAM-guided-Unified-Framework-for-Weakly-Supervised-Camouflaged-Object-Detection/best_model.pth'
+Put model-best.pth (save in './SAM-guided-Unified-Framework-for-Weakly-Supervised-Camouflaged-Object-Detection/out/trained') in './SAM-guided-Unified-Framework-for-Weakly-Supervised-Camouflaged-Object-Detection/best_model.pth'
 
 ```shell
 python test.py
